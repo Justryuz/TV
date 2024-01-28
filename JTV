@@ -1401,14 +1401,14 @@ https://cdnjt24.useetv.com/drm/live/smil:afc.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w+rn8zcQ19ngBYJEr/N/sA", "kid":"1ZF5iqONQ/moefITEieRbw" } ], "type":"temporary" }
 #EXTINF:-1 group-title="EXPERIMENTAL",TEST
-https://pccw-vuclip-video-eip.akamaized.net/3155e48d26d9d5159b41fcfda990a730/VP6_V20230120113907/P2/video/8c41e4ff-d60d-486f-a027-3fafef608f46/output.ts?hdnts=st=1706465857~exp=1706555857~acl=/3155e48d26d9d5159b41fcfda990a730/VP6_V20230120113907/*~hmac=eed16c0c914587b64ca2b5e4f819a34b1f4ed903e743fa2aab6bdf33c3abd8a0
+https://pccw-vuclip-video-eip.akamaized.net/3155e48d26d9d5159b41fcfda990a730/VP6_V20230120113907/P2/video/8c41e4ff-d60d-486f-a027-3fafef608f46/output.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w+rn8zcQ19ngBYJEr/N/sA", "kid":"1ZF5iqONQ/moefITEieRbw" } ], "type":"temporary" }
 #EXTINF:-1 group-title="EXPERIMENTAL",TEST
-https://pccw-vuclip-video-eip.akamaized.net/4e710f0cd060413eab3dccd745de5673/VP6_V20231106162653/P2/video/53a04cfa-966c-4f38-a683-72d14ffb971a/output.ts?hdnts=st=1706465657~exp=1706555657~acl=/4e710f0cd060413eab3dccd745de5673/VP6_V20231106162653/*~hmac=a0cb707f63ec71312f3e0ca69e9e0f7d0282cc7b3c5355338361a4ffed1e4803
+https://pccw-vuclip-video-eip.akamaized.net/4e710f0cd060413eab3dccd745de5673/VP6_V20231106162653/P2/video/53a04cfa-966c-4f38-a683-72d14ffb971a/output.ts
 
 
 
