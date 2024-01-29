@@ -1456,7 +1456,7 @@ https://webudit.webdicdn.lol/lb/premium126/index.m3u8|Referer=https://streamserv
 
 <!-- RADIO -->
 #EXTINF:-1 group-title="Radio Astro" tvg-id="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
-https://audio1.syok.my/hitz
+https://stream.rcs.revma.com/488kt4sbv4uvv/9_1is61coeggz4z02/playlist.m3u8
 #EXTINF:-1 group-title="Radio Astro" tvg-id="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png", MY
 https://audio1.syok.my/myfm
 #EXTINF:-1 group-title="Radio Astro" tvg-id="MIX" ch-number="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX
@@ -1474,9 +1474,9 @@ https://audio1.syok.my/gegar
 #EXTINF:-1 group-title="Radio Astro" tvg-id="Hot FM" ch-number="864" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/hot.png",Hot FM
 https://dengar.hotfm.audio/
 #EXTINF:-1 group-title="Radio Astro" tvg-id="JAZZ" ch-number="865" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/ikim.png",Ikim FM
-https://laylio.radioactive.sg/?p=c6aea0550e3335befbe3fecb7c0ce999
+https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=656fa77b44ab5bb6_4682292_RQAkYMNe_MTAzLjIxLjgxLjk6ODA!_0000001JvsW&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE3MDY0OTgzOTIsImV4cCI6MTcwNjU4NDc5Mn0.cj318FaI4VgjcOQD_mOvkvhQLsDwETM3KFrsPBJJjIc&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=e1d45cff453179b8fe6e4ca52a339fd9
 #EXTINF:-1 group-title="Radio Astro" tvg-id="OSAI" ch-number="866" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokOsai2021.png",Bernama FM
-https://laylio.radioactive.sg/?p=c6aea0550e3335befbe3fecb7c20206a&v=2&d=0
+https://bernama.rastream.com/bernama-bernama.web.hls/playlist.m3u8?listeningSessionID=656fa77b44ab5bb6_4682245_lZNEN7DI_MTAzLjIxLjgxLjk6ODA!_0000001Jvka&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Abernama-bernama&playerid=BERNAMA_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE3MDY0OTg0MjEsImV4cCI6MTcwNjU4NDgyMX0.CWBZrzphRmV5wB13rwLoC4zYp2xONBx2YApip7BvJPw&listenerid=e1d45cff453179b8fe6e4ca52a339fd9
 
 
 </noscript>
