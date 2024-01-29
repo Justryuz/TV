@@ -1408,15 +1408,6 @@ https://vod.mana2.my/vod/13_Doa_Dijauhkan_Dari_Ketakutan.mp4/tracks-v3a1/segment
 https://cdnjt24.useetv.com/drm/live/smil:afc.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="TV1" group-title="FAMA TV" group-logo="https://iili.io/JcNgTyg.png" ch-number="101" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQIovupqUOCM5fAqW-iSy93iBVJerhDag9OC4fo=s176-c-k-c0x00ffffff-no-rj",FAMA TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5262cbebead64f42aa8317e3cb13106c": "17fbade6a94f5271a6a7c56374bf6d8e"}
-https://rr2---sn-uh-30aek.googlevideo.com/videoplayback?expire=1706531106&ei=wkS3ZcfBCJj-3LUPtY6HmAk&ip=2001%3Ae68%3A662c%3Acf00%3A40aa%3Ad3f%3Aa6bd%3Ae7a9&id=o-AFWP_VTo2vy4rwtNU80Z1Zcr20V-usPG1NDz8wtqgiYW&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=QX&mm=31%2C29&mn=sn-uh-30aek%2Csn-30a7yney&ms=au%2Crdu&mv=m&mvi=2&pl=42&pcm2=yes&initcwndbps=277500&siu=1&spc=UWF9fye5GF3GINx-bQUrvMO3Dbzd30ReS0Ox3GiVfEVsz2JCMNCcU7cKYvCA&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=hV3QCRb0HKf3UOD8LcRGN2cQ&gir=yes&clen=11420736&dur=651.401&lmt=1696468801411887&mt=1706509017&fvip=4&keepalive=yes&fexp=24007246&c=WEB&txp=6218224&n=r6v81RiKg2WUWA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cpcm2%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgRA19AD3TrMe2skP2RAUpVMw7RBlK-1LgdM4aBCvzQUQCIQCZnkWnQNgxg5Vbxcs69o28o-bFSMLDjS8-547KiWw7ZA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AAO5W4owRgIhAN9lhVN-rBa7iSfszVnrB4WWCkmOFonLJahpDUy6KFpPAiEArGMpdSqcHDSFa-H4ypRrADhaAn7a7I5FTgWLKa7qUPE%3D&alr=yes&cpn=pCqHqQLvQLQ3UjyK&cver=2.20240123.06.00&range=633870-1111212&rn=15&rbuf=27060&pot=MluMIuL5GWP0DowalAGVjKzccFzRGOdu8PlK8DofXs5T0N6sDnWOkW9wNVuYtnIBNDUED8khA_uBEy6HBzo7BNZlUK9YKrMIAdyWCP39oYWP04Wa750EghWdszS5&ump=1&srfvp=1
-
-
-
 <!---------- DADDYHD ---------->
 
 #EXTINF:-1 group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_sports.png" group-title="Astro Sports Pack" tvg-id="AstroCricket" tvg-id="AstroCricket",Astro Cricket HD
