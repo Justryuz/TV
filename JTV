@@ -1455,10 +1455,83 @@ https://webudit.webdicdn.lol/lb/premium126/index.m3u8|Referer=https://streamserv
 
 
 <!-- FAMA TV -->
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"  
+refresh="3600"
+
+#EXTINF:-1 tvg-id="TV1" group-title="myFreeview" group-logo="https://iili.io/JcNgTyg.png" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w+rn8zcQ19ngBYJEr/N/sA", "kid":"1ZF5iqONQ/moefITEieRbw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="UnifiSports2" group-title="EXPERIMENTAL",TEST tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109"
-https://rr2---sn-30a7yner.googlevideo.com/videoplayback?expire=1706520423&ei=Bxu3Zf2ICoGHjMwP156s-Aw&ip=1.9.49.113&id=o-AL3FyWmte-ZlBDjuqf7CkhcOdRLDIl72Xxwl2ueVjOBi&itag=397&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C394%2C395%2C396%2C397%2C398%2C399&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=aG&mm=31%2C29&mn=sn-30a7yner%2Csn-30a7rned&ms=au%2Crdu&mv=m&mvi=2&pl=22&ctier=L&pcm2=yes&gcr=my&initcwndbps=1533750&siu=1&spc=UWF9fzUSS7tUXuXDGSSazprDh_Q70SEPfjpbgcUG8RBYBwTLRg&vprv=1&svpuc=1&mime=video%2Fmp4&ns=UcIRbIuIOYXTde5C2N2A98MQ&gir=yes&clen=6366676&dur=96.000&lmt=1703396102271231&mt=1706498462&fvip=3&keepalive=yes&fexp=24007246&c=WEB&txp=5537434&n=PCX9B9SaVuDUug&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cctier%2Cpcm2%2Cgcr%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AAO5W4owRgIhALFzyxK-Fb6qU4DdwKWmLLAWznbcQowlWu5JYc14BX_pAiEAhr_6gCenK21JQy01wjfDWYXk0gnG3UlBXWjxzyAMGxo%3D&alr=yes&sig=AJfQdSswRgIhAOB9TBzY0OJVQ4OHWmZzyV7pTU9c4WJsBn-JxtyLPvHmAiEAyW7AMEP5fHaWjsav1XImJnL6JbTA5Tyoyyq331EARyU%3D&cpn=HgXXHMMTmGm4S9AH&cver=2.20240123.06.00&range=2053742-3666488&rn=12&rbuf=21978&pot=MlvaFg5ryiDsd9ou6aXZG5ReIV-fjI4ezDisdc_pC2Z_r318pEccuiQSgZ1x_dc54MNoy5lBvkKr9Q1-COupXu6zXMyXmZjn0YojF63j_rmpoFhokWaUTZmV09KQ&ump=1&srfvp=1
+#KODIPROP:inputstream.adaptive.license_key={"5262cbebead64f42aa8317e3cb13106c": "17fbade6a94f5271a6a7c56374bf6d8e"}
+https://linear08-playback.sooka.my/CH3/masterCH3.mpd
+
+#EXTINF:-1 tvg-id="TV2" group-title="myFreeview" group-logo="https://iili.io/JcNgTyg.png" ch-number="102" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",102 TV2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f7beeac200af40d5886dfe98d72fcfc8": "e863f7149e52f7526bf744034e27ce8d"}
+https://linear08-playback.sooka.my/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="113" tvg-name="TV6" group-title="myFreeview" group-logo="https://iili.io/JcNgTyg.png" tvg-logo="https://i.ibb.co/LPVMhTq/tv6.png",113 TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
+
+#EXTINF:-1 tvg-id=" " group-title="myFreeview" group-logo="https://iili.io/JcNgTyg.png" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8
+
+#EXTINF:-1 tvg-id="TVIKIM" group-title="myFreeview" group-logo="https://iili.io/JcNgTyg.png" tvg-logo="http://www.tvikim.my/images/logo-header-02.png",TVIKIM
+https://origin.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="myFreeview" group-logo="https://iili.io/JcNgTyg.png" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2496000_slENG.m3u8?id=5
+
+#EXTINF:-1 tvg-id=" " group-title="myFreeview" group-logo="https://iili.io/JcNgTyg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM Sports HD
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b654000_slENG.m3u8?id=4
+
+#EXTINF:-1 tvg-id="TVAlhijrah" group-logo="https://iili.io/JcNgTyg.png" ch-number="114" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="myFreeview",114 TV AlHijrah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="myFreeview" group-logo="https://iili.io/JcNgTyg.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211
+#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" group-logo="https://iili.io/JcNgTyg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI6bhqSuMTkGVuc4nw3jy_86NZKSJBXH3maXNmuqEPX3pg30s4APk27wo&usqp=CAU",123 Awesome TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
+
+
+#EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Ntv7" ch-number="147" group-title="myFreeview" group-logo="https://iili.io/JcNgTyg.png" tvg-logo="https://didik.tv/images/logotv2.png",147 Ntv7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
+https://aqfadtv.xyz/live/didiktvkpm/index.mpd
+
+
+#EXTINF:-1 tvg-id="8TV" ch-number="148" group-title="myFreeview" group-logo="https://iili.io/JcNgTyg.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
+https://aqfadtv.xyz/live/8tv/index.mpd
+
+#EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="myFreeview" group-logo="https://iili.io/JcNgTyg.png" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",149 TV9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+https://aqfadtv.xyz/live/tv9/index.mpd
+
+#EXTINF:-1 tvg-id="GOShop" ch-number="149" group-title="myFreeview" group-logo="https://iili.io/JcNgTyg.png" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",150 Go Shop  
+https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
+
+
 </noscript>
