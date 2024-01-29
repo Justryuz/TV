@@ -46,6 +46,14 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Suke TV" tvg-name="Suke TV" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/hxismd.png",Suke TV
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1702597780-0028b2f930124ad5969ab7f2fee7367d-0-37ce36395236e47c0ec707d21376af2a
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3f726fd5cbbf5944437a4dbfab431b10&key=376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NK3OJ.png",Astro Ria HD CH104
 <!--https://linears-playback.astro.com.my/vsg/41dKS1PonH0R7zcrnNWUf7fA8GbGArKt_Efm4DivCp1Fk=9iH6/dash-wv/jitp-linearwm/1004/default_ott.mpd-->
@@ -1385,6 +1393,18 @@ https://linear03-playback.sooka.my/CH2/masterCH2.mpd
 #EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | OTTNAV ONLY" tvg-logo="https://telegra.ph/file/fdae501cefcf5faaeeba3.png" tvg-id="xxx",STANDBY A
 https://linear07-playback.sooka.my/CH5/masterCH5.mpd
 
+
+
+<!---------  Inteam TV ---------->
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w+rn8zcQ19ngBYJEr/N/sA", "kid":"1ZF5iqONQ/moefITEieRbw" } ], "type":"temporary" }
+#EXTINF:-1 group-title="Inteam TV"
+https://vod.mana2.my/vod/13_Doa_Dijauhkan_Dari_Ketakutan.mp4/tracks-v3a1/segment7.ts?token=1706515484-ef06ffef53964b48b1bd379920eef537-0-93f96df86313d7c4bfb5df7e5e477b76&auth_key=1706515484-ef06ffef53964b48b1bd379920eef537-0-8fdfd14ef7127fb7f1577f57d2cd0efa
+
+
+
 <!---------  TEST ---------->
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1410,6 +1430,21 @@ https://pccw-vuclip-video-eip.akamaized.net/3155e48d26d9d5159b41fcfda990a730/VP6
 #EXTINF:-1 group-title="EXPERIMENTAL",TEST
 https://pccw-vuclip-video-eip.akamaized.net/4e710f0cd060413eab3dccd745de5673/VP6_V20231106162653/P2/video/53a04cfa-966c-4f38-a683-72d14ffb971a/output.ts
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w+rn8zcQ19ngBYJEr/N/sA", "kid":"1ZF5iqONQ/moefITEieRbw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-ID="UnifiSports1" group-title="EXPERIMENTAL",TEST tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest/scale-to-width-down/280?cb=20210712111848" group-tittle="🇲🇾MovieRakyat Basic Channel" ch-number="841" 
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w+rn8zcQ19ngBYJEr/N/sA", "kid":"1ZF5iqONQ/moefITEieRbw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="UnifiSports2" group-title="EXPERIMENTAL",TEST tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109" group-tittle="🇲🇾MovieRakyat Basic Channel" ch-number="842" 
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+
 
 
 <!---------- DADDYHD ---------->
@@ -1428,36 +1463,27 @@ https://webudit.webdicdn.lol/lb/premium126/index.m3u8|Referer=https://streamserv
 
 <!-- RADIO -->
 #EXTINF:-1 group-title="Radio Astro" tvg-id="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
-https://astro1.rastream.com/hitz
+https://audio1.syok.my/hitz
 #EXTINF:-1 group-title="Radio Astro" tvg-id="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png", MY
-https://astro1.rastream.com/myfm
+https://audio1.syok.my/myfm
 #EXTINF:-1 group-title="Radio Astro" tvg-id="MIX" ch-number="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX
-https://astro2.rastream.com/mix
+https://audio1.syok.my/mix
 #EXTINF:-1 group-title="Radio Astro" tvg-id="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA
-https://astro2.rastream.com/era
+https://audio1.syok.my/era
 #EXTINF:-1 group-title="Radio Astro" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR
-https://astro2.rastream.com/sinar
+https://audio1.syok.my/sinar
 #EXTINF:-1 group-title="Radio Astro" tvg-id="MELODY" ch-number="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
-https://astro3.rastream.com/melody
+https://audio1.syok.my/amp-melody
 #EXTINF:-1 group-title="Radio Astro" tvg-id="RAAGA" ch-number="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA
-https://astro3.rastream.com/raaga
-#EXTINF:-1 group-title="Radio Astro" tvg-id="ROCK" ch-number="860" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokClassicRock2021.png",SYOK Classic Rock
-https://astro4.rastream.com/rock
-#EXTINF:-1 group-title="Radio Astro" tvg-id="GOLD" ch-number="861" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokGold2021.png",SYOK Gold
-https://astro4.rastream.com/gold
-#EXTINF:-1 group-title="Radio Astro" tvg-id="OPUS" ch-number="862" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokOpus2021.png",SYOK Opus
-https://astro4.rastream.com/opus
+https://audio1.syok.my/raaga
 #EXTINF:-1 group-title="Radio Astro" tvg-id="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
-https://astro3.rastream.com/gegar
-#EXTINF:-1 group-title="Radio Astro" tvg-id="INDIA" ch-number="864" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokIndiaBeat.png",SYOK India Beat
-https://astro4.rastream.com/india
-#EXTINF:-1 group-title="Radio Astro" tvg-id="JAZZ" ch-number="865" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokJazz2021.png",SYOK Jazz
-https://astro4.rastream.com/jazz
-#EXTINF:-1 group-title="Radio Astro" tvg-id="OSAI" ch-number="866" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokOsai2021.png",SYOK Osai
-https://astro4.rastream.com/osai
-#EXTINF:-1 group-title="Radio Astro" tvg-id="BAYU" ch-number="867" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokBayu2021.png",SYOK Bayu
-https://astro4.rastream.com/bayu
-#EXTINF:-1 group-title="Radio Astro" tvg-id="KENYALANG" ch-number="868" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokKenyalang2021.png",SYOK Kenyalang
-https://astro4.rastream.com/kenyalang
+https://audio1.syok.my/gegar
+#EXTINF:-1 group-title="Radio Astro" tvg-id="Hot FM" ch-number="864" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/hot.png",Hot FM
+https://dengar.hotfm.audio/
+#EXTINF:-1 group-title="Radio Astro" tvg-id="JAZZ" ch-number="865" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/ikim.png",Ikim FM
+https://laylio.radioactive.sg/?p=c6aea0550e3335befbe3fecb7c0ce999
+#EXTINF:-1 group-title="Radio Astro" tvg-id="OSAI" ch-number="866" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokOsai2021.png",Bernama FM
+https://laylio.radioactive.sg/?p=c6aea0550e3335befbe3fecb7c20206a&v=2&d=0
+
 
 </noscript>
