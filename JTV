@@ -1454,29 +1454,11 @@ https://webudit.webdicdn.lol/lb/premium125/index.m3u8|Referer=https://streamserv
 https://webudit.webdicdn.lol/lb/premium126/index.m3u8|Referer=https://streamservicehd.click/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 
-<!-- RADIO -->
-#EXTINF:-1 group-title="Radio Astro" tvg-id="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
-https://stream.rcs.revma.com/488kt4sbv4uvv/9_1is61coeggz4z02/playlist.m3u8
-#EXTINF:-1 group-title="Radio Astro" tvg-id="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png", MY
-https://audio1.syok.my/myfm
-#EXTINF:-1 group-title="Radio Astro" tvg-id="MIX" ch-number="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX
-https://audio1.syok.my/mix
-#EXTINF:-1 group-title="Radio Astro" tvg-id="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA
-https://audio1.syok.my/era
-#EXTINF:-1 group-title="Radio Astro" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR
-https://audio1.syok.my/sinar
-#EXTINF:-1 group-title="Radio Astro" tvg-id="MELODY" ch-number="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
-https://audio1.syok.my/amp-melody
-#EXTINF:-1 group-title="Radio Astro" tvg-id="RAAGA" ch-number="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA
-https://audio1.syok.my/raaga
-#EXTINF:-1 group-title="Radio Astro" tvg-id="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
-https://audio1.syok.my/gegar
-#EXTINF:-1 group-title="Radio Astro" tvg-id="Hot FM" ch-number="864" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/hot.png",Hot FM
-https://dengar.hotfm.audio/
-#EXTINF:-1 group-title="Radio Astro" tvg-id="JAZZ" ch-number="865" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/ikim.png",Ikim FM
-https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=656fa77b44ab5bb6_4682292_RQAkYMNe_MTAzLjIxLjgxLjk6ODA!_0000001JvsW&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE3MDY0OTgzOTIsImV4cCI6MTcwNjU4NDc5Mn0.cj318FaI4VgjcOQD_mOvkvhQLsDwETM3KFrsPBJJjIc&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=e1d45cff453179b8fe6e4ca52a339fd9
-#EXTINF:-1 group-title="Radio Astro" tvg-id="OSAI" ch-number="866" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokOsai2021.png",Bernama FM
-https://bernama.rastream.com/bernama-bernama.web.hls/playlist.m3u8?listeningSessionID=656fa77b44ab5bb6_4682245_lZNEN7DI_MTAzLjIxLjgxLjk6ODA!_0000001Jvka&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Abernama-bernama&playerid=BERNAMA_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE3MDY0OTg0MjEsImV4cCI6MTcwNjU4NDgyMX0.CWBZrzphRmV5wB13rwLoC4zYp2xONBx2YApip7BvJPw&listenerid=e1d45cff453179b8fe6e4ca52a339fd9
-
-
+<!-- FAMA TV -->
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w+rn8zcQ19ngBYJEr/N/sA", "kid":"1ZF5iqONQ/moefITEieRbw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="UnifiSports2" group-title="EXPERIMENTAL",TEST tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109"
+https://rr2---sn-30a7yner.googlevideo.com/videoplayback?expire=1706520423&ei=Bxu3Zf2ICoGHjMwP156s-Aw&ip=1.9.49.113&id=o-AL3FyWmte-ZlBDjuqf7CkhcOdRLDIl72Xxwl2ueVjOBi&itag=397&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C394%2C395%2C396%2C397%2C398%2C399&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=aG&mm=31%2C29&mn=sn-30a7yner%2Csn-30a7rned&ms=au%2Crdu&mv=m&mvi=2&pl=22&ctier=L&pcm2=yes&gcr=my&initcwndbps=1533750&siu=1&spc=UWF9fzUSS7tUXuXDGSSazprDh_Q70SEPfjpbgcUG8RBYBwTLRg&vprv=1&svpuc=1&mime=video%2Fmp4&ns=UcIRbIuIOYXTde5C2N2A98MQ&gir=yes&clen=6366676&dur=96.000&lmt=1703396102271231&mt=1706498462&fvip=3&keepalive=yes&fexp=24007246&c=WEB&txp=5537434&n=PCX9B9SaVuDUug&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cctier%2Cpcm2%2Cgcr%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AAO5W4owRgIhALFzyxK-Fb6qU4DdwKWmLLAWznbcQowlWu5JYc14BX_pAiEAhr_6gCenK21JQy01wjfDWYXk0gnG3UlBXWjxzyAMGxo%3D&alr=yes&sig=AJfQdSswRgIhAOB9TBzY0OJVQ4OHWmZzyV7pTU9c4WJsBn-JxtyLPvHmAiEAyW7AMEP5fHaWjsav1XImJnL6JbTA5Tyoyyq331EARyU%3D&cpn=HgXXHMMTmGm4S9AH&cver=2.20240123.06.00&range=2053742-3666488&rn=12&rbuf=21978&pot=MlvaFg5ryiDsd9ou6aXZG5ReIV-fjI4ezDisdc_pC2Z_r318pEccuiQSgZ1x_dc54MNoy5lBvkKr9Q1-COupXu6zXMyXmZjn0YojF63j_rmpoFhokWaUTZmV09KQ&ump=1&srfvp=1
 </noscript>
