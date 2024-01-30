@@ -1433,6 +1433,12 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_pri
 https://aqfadtv.xyz/live/warna/index.mpd
 
 
+#EXTINF:-1 group-title="EXPERIMENTAL",TEST tvg-id="128" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
+https://unifi-live27.secureswiftcontent.com/UnifiHD/live27.mpd
+
+
 <!---------- DADDYHD ---------->
 
 #EXTINF:-1 group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_sports.png" group-title="Astro Sports Pack" tvg-id="AstroCricket" tvg-id="AstroCricket",Astro Cricket HD
