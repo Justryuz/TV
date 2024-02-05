@@ -1375,13 +1375,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_pri
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmreY0BU2vpXEuRiD42Rw60uw=r_pV/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 
-
-#EXTINF:0 tvg-name="Furqan TEST" tvg-ID="Astro.Warna.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="EXPERIMENTAL",TEST",FURQAN TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-https://f.pollllop.com/_v11/d334d478d9599373d766b49734839c7c643cc39f958e810bc2eee51738d8637d73ffb3b0b1f863c291c80c92c801bcda1a1ebcdc98abc9d907a7c41f9644f05b9349d5bc887f04bf1ca5c283a649c6b96157d90056bba1d965a06565e46715ff7c975104989a99f5ef828f75308cd1857d1cd311e611b5b8d166f3c86011f264186df5485feb912223cb5e977a6b1e0b/playlist.m3u8
-
-#EXTINF:0 tvg-name="Furqan TEST" tvg-ID="Astro.Warna.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="EXPERIMENTAL",TEST",FURQAN TV
+#EXTINF:0 tvg-name="Furqan TEST" tvg-ID="Wonka TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdeScTuHDR0VzyMbZFqFggLacu3S7nbz-OpdF88eRkQ4zCRey-OkPdtEglwHJyZ00Bbqg&usqp=CAU" group-title="EXPERIMENTAL",TEST",FURQAN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 https://f.pollllop.com/_v11/d334d478d9599373d766b49734839c7c643cc39f958e810bc2eee51738d8637d73ffb3b0b1f863c291c80c92c801bcda1a1ebcdc98abc9d907a7c41f9644f05b9349d5bc887f04bf1ca5c283a649c6b96157d90056bba1d965a06565e46715ff7c975104989a99f5ef828f75308cd1857d1cd311e611b5b8d166f3c86011f264186df5485feb912223cb5e977a6b1e0b/720/index.m3u8
