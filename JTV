@@ -1384,6 +1384,11 @@ https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmreY0BU2vpXEuRiD4
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 https://f.pollllop.com/_v11/d334d478d9599373d766b49734839c7c643cc39f958e810bc2eee51738d8637d73ffb3b0b1f863c291c80c92c801bcda1a1ebcdc98abc9d907a7c41f9644f05b9349d5bc887f04bf1ca5c283a649c6b96157d90056bba1d965a06565e46715ff7c975104989a99f5ef828f75308cd1857d1cd311e611b5b8d166f3c86011f264186df5485feb912223cb5e977a6b1e0b/720/index.m3u8
 
+#EXTINF:0 tvg-name="Fairul TEST" tvg-ID="Trolls TV" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY4MDk2YWUtNWY1My00YjAxLWI4ZGQtMmRhN2FiNDI4NDRjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX160_.jpg" group-title="EXPERIMENTAL",TEST",Fairul TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
+https://p.pollllop.com/_v11/6fde1a3d7d0239026177f34a1b483890dc2e36e8dd6a2aeb6989f656f82d7f9fde3f4b340fabed46e585e0ee62905f3b433c7ddbb52683b9fd9df1768e9e063a476f945d6e9f668068736485276056a9fe14c8cd9b6431d9ed7a0e0f583e500c99bb163b4c1da9109fed3bf0add3faa1989324541acb5ef5817ea16d059edcd02b9a79faba47624284ce292fa513cf0a/720/index.m3u8
+
 <!---------- DADDYHD ---------->
 
 #EXTINF:-1 group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_sports.png" group-title="Astro Sports Pack" tvg-id="AstroCricket" tvg-id="AstroCricket",Astro Cricket HD
