@@ -1362,7 +1362,7 @@ https://www.dailymotion.com/cdn/manifest/video/x8s8bcc.m3u8?sec=e7IZOAOUTYS3exWm
 #EXTINF:0 tvg-name="Astro Ria" tvg-ID="astroria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="EXPERIMENTAL",TEST",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
-https://links.aqfadtv.xyz/ria.mpd
+https://tvmalaysia.xyz:5443/LiveApp/streams/826950564507780933339779.m3u8
 
 #EXTINF:0 tvg-name="Astro Oasis" tvg-ID="astrooasis.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="EXPERIMENTAL",TEST",Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1377,7 +1377,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_pri
 #EXTINF:0 tvg-name="Astro Warna" tvg-ID="Astro.Warna.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="EXPERIMENTAL",TEST",Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-https://links.aqfadtv.xyz/warna.mpd
+https://tvmalaysiaonline.xyz:5443/LiveApp/streams/936628122913222362290134.m3u8
 
 #EXTINF:0 tvg-name="Furqan TEST" tvg-ID="Wonka TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdeScTuHDR0VzyMbZFqFggLacu3S7nbz-OpdF88eRkQ4zCRey-OkPdtEglwHJyZ00Bbqg&usqp=CAU" group-title="EXPERIMENTAL",TEST",FURQAN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
