@@ -3,7 +3,7 @@
 <noscript>
 <!---- HERE ---->
 
-#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml",refresh="3600"  refresh="1440" billed-msg="V2.5 - 6/2/2024 | By JustryuzTV" vod_library="https://fahmikacak.pages.dev/HBOGO%20Asia, https://shz.al/KSzH"
+#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml",refresh="3600"  refresh="1440" billed-msg="V2.5 - 6/2/2024 | By JustryuzTV" vod_library="https://fahmikacak.pages.dev/HBOGO%20Asia, https://shz.al/KSzH"
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJndWVzdDI1NUBtb3JhdGVsaW5kby5jb20iLCJzZXNzaW9uSWQiOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjlleUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pWVRNeU1EQmtObVF0TURoa05pMDBaR1ppTFRsaU5HWXRZMlF6WVdFME1XRTNaRGxpSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVFYTnBZUzlLWVd0aGNuUmhJaXdpWVhWMGFHOXlhWFI1SWpvaVVrOU1SVjlWVTBWU0lpd2laWGh3SWpveE56QTBNemMxT1RJd0xDSjFjMlZ5U1dRaU9pSTBNREk0TkRobE5EZGpaR0U1TTJVNE1ERTNaR1poT0RBeU5XSm1NemRrTXlJc0ltUmxkbWxqWlVsa0lqb2lNRGhrTm1JNFlURmlaRFpqT0RKalppSXNJbWxoZENJNk1UY3dNRGM0TXpreU1Dd2lkWE5sY201aGJXVWlPaUpuZFdWemRERXdNalV4UUcxdmNtRjBaV3hwYm1SdkxtTnZiU0o5LlpwLVpuZkdmVEFKdjJRS0FMbE40ZnJmVVhQQ3gtUzFzWGg2UUFQZmVtdHciLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0"}
@@ -1381,6 +1381,22 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_pri
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://aqfadtv.xyz/live/warna/index.mpd
 
+#EXTINF:0 tvg-name="Main.Main.Hantu.1990" tvg-ID="Astro.Warna.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/c/c9/PosterMain-mainHantu.jpg/220px-PosterMain-mainHantu.jpg" group-title="EXPERIMENTAL",TEST",Main Main Hantu (1990)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+https://www.dailymotion.com/cdn/manifest/video/x8sagce.m3u8?sec=ENSUsIiyPf6kSFXvAExKxC3WJa0zUE0e4Av91efCJAq7i2LSxtIHXU1hf7GE99y4&dmTs=129263&dmV1st=48a136ea-bf15-4a7b-8a44-07891a320da3
+
+#EXTINF:0 tvg-name="Awang Spanar" tvg-ID="Astro.Warna.HD.my" tvg-logo="https://3.bp.blogspot.com/-5iqje7rpCbA/TmbHWyf_I7I/AAAAAAAAAUg/TdFWDbrksd0/w1200-h630-p-k-no-nu/Awang_spanar.jpg" group-title="EXPERIMENTAL",TEST",Awang Spanar (1989)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+https://www.dailymotion.com/cdn/manifest/video/x8s8abu.m3u8?sec=5UtQk7G_gg8Zl0VHG5B0BDEFwuXFgcRR1O5H5fgehpk5q2a4jisP37VPTSCIx0y_&dmTs=129263&dmV1st=48a136ea-bf15-4a7b-8a44-07891a320da3
+
+#EXTINF:0 tvg-name="Adik (1990)" tvg-ID="Astro.Warna.HD.my" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTMwODk0NWUtZjYyMS00YzNlLWE4OWUtZTFkNWM2ZWNkNWQyXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg" group-title="EXPERIMENTAL",TEST",Adik (1990)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+https://www.dailymotion.com/cdn/manifest/video/x8s8bcc.m3u8?sec=e7IZOAOUTYS3exWmMSjXMDcMqPhHDb9fvlKNA6xPoTpxHDiFDFEhutP9fX8lLZva&dmTs=129263&dmV1st=48a136ea-bf15-4a7b-8a44-07891a320da3
+
+
 #EXTINF:0 tvg-name="Furqan TEST" tvg-ID="Wonka TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdeScTuHDR0VzyMbZFqFggLacu3S7nbz-OpdF88eRkQ4zCRey-OkPdtEglwHJyZ00Bbqg&usqp=CAU" group-title="EXPERIMENTAL",TEST",FURQAN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
@@ -1560,6 +1576,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 https://web.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
+
 
 
 </noscript>
