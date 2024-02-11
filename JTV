@@ -1331,6 +1331,13 @@ https://linear07-playback.sooka.my/CH5/masterCH5.mpd
 
 <!---------  TEST ---------->
 
+#EXTINF:-1 tvg-id="GOXUAN" tvg-name="GOXUAN" ch-number="877" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png" group-title="EXPERIMENTAL",TEST",HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7x584+UKeHiM4YMc6o4YfQ", "kid":"7nOKZ3dtFH6V+V3yfmJrEA" } ], "type":"temporary" }
+http://62.210.113.122:25461/Q5023/5286/200?token=SRFdBBdcFwpGVwBQBANTAFQNAlQMBwAFXAEDAgcPBQhWClNdVgMNAlxHTUNGQhBRVlVsD1wSAwVVABgQEEUGQm1aUUdeFgQAV1NTQxkUFl1aXRFcCQcJAFMHAgNTB08SQlpRR14WDQBRXENNF1MaQFJKXQdUb11SE1lXV0cMDUVeXxlHC1pqVAEIAA9RFFgWBxofRFFDSRVfXkFeCRpBUltHRwQQURcKRlRXVgcUThZUV0YITEJAFV8SeWtHGkFVSkdQCxddWl5GX0MVRhROFl5LbBRdQ01FAFFZVxcUWRICERlHCVVNbwcKDw9QVRZdWFZARAISCxVJElldC18XX0BsRQwAFg8SVlxRWAAUHw==
+
+
+
 ##EXTINF:-1 group-title="EXPERIMENTAL",TEST" tvg-id="AstroRia" ch-number="104" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
@@ -1398,11 +1405,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena2 HD" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="EXPERIMENTAL",TEST", 802 Astro Arena 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
-
-#EXTINF:-1 tvg-id="GOXUAN" tvg-name="GOXUAN" ch-number="877" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png" group-title="Radio",877 GO XUAN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7x584+UKeHiM4YMc6o4YfQ", "kid":"7nOKZ3dtFH6V+V3yfmJrEA" } ], "type":"temporary" }
-http://62.210.113.122:25461/Q5023/5286/200?token=SRFdBBdcFwpGVwBQBANTAFQNAlQMBwAFXAEDAgcPBQhWClNdVgMNAlxHTUNGQhBRVlVsD1wSAwVVABgQEEUGQm1aUUdeFgQAV1NTQxkUFl1aXRFcCQcJAFMHAgNTB08SQlpRR14WDQBRXENNF1MaQFJKXQdUb11SE1lXV0cMDUVeXxlHC1pqVAEIAA9RFFgWBxofRFFDSRVfXkFeCRpBUltHRwQQURcKRlRXVgcUThZUV0YITEJAFV8SeWtHGkFVSkdQCxddWl5GX0MVRhROFl5LbBRdQ01FAFFZVxcUWRICERlHCVVNbwcKDw9QVRZdWFZARAISCxVJElldC18XX0BsRQwAFg8SVlxRWAAUHw==
 
 
 
