@@ -1441,10 +1441,16 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default.mpd
 
 <!-- Testing Channel Backup -->
 
-#EXTINF:-1 group-title="TESTING BACKUP" tvg-id="AstroRia" ch-number="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro OASIS
+#EXTINF:-1 group-title="TESTING BACKUP" tvg-id="Astro" ch-number="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro OASIS
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571238&extension=ts&play_token=GVZS088tcf
+
+
+#EXTINF:-1 group-title="TESTING BACKUP" tvg-id="Astro" ch-number="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria HD
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
+http://185.225.191.46:25461/live/LT186743/8181/13.ts?token=SRFdBBdcFwpGUFQFV1BTAQELB14BAQpVVVYDCwNUWgEBC1EBVgVRUVxHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAcPAl0BBQpJFBNZVhEPR1YMAgFTR01DUE4WUUVWUgpnVFxBDFNREF9YFlxeHxcKCmtRVQkEDwUXDEAEFRQRD0tAGw0LRVheSRQBWUZBVBEBFg8SVVZTUBcaQFdYTV0SSkkbDUd9bRBJFAZIRlZbFg1bWxJeRxUSFxpAXURnQQNLREtSBF1RQEcMQQAQHxcIBUxqUwsLDwRWQgtbWUsRXBoCGxtHXVtcDEIMQm1DXAFGDhcDVVRWUhdL
 
 
 
