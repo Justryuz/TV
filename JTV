@@ -1413,6 +1413,112 @@ https://webudit.webdicdn.lol/lb/premium125/index.m3u8|Referer=https://streamserv
 https://webudit.webdicdn.lol/lb/premium126/index.m3u8|Referer=https://streamservicehd.click/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 
+
+#EXTM3U
+
+###ONEdrive###
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", 3.Idiots.HD
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/3.Idiots.HD.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Blue.Beetle.2023
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Blue.Beetle.2023.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Expend4bles.2023
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Expend4bles.2023.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", The.Equalizer.3
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/The.Equalizer.3.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Transformers.Rise.of.the.Beasts
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Transformers.Rise.of.the.Beasts.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", 
+
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", 
+
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg",
+
+
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Meg.2.The.Trench.EngSub
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Meg.2.The.Trench.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", The Chosen One 2023 Final Ep
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/The%20Choosen%20One%20Final%20Ep.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Venom.Let.There.Be.Carnage.2021.1080p
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Venom.Let.There.Be.Carnage.2021.1080p.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Anwar.The.Untold.Story.2023.1080p.NF.WEB-DL.MalaySub
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Anwar.The.Untold.Story.2023.1080p.NF.WEB-DL.MalaySub.mp4
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Mechamato.Movie.2022.1080p.AOTG.WEB-DL
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Mechamato.Movie.2022.1080p.AOTG.WEB-DL.mp4
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Arya HD
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Arya.mp4
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Gran Turismo 2023
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/VTT%20Gran%20Turismo%202023.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Gran Turismo 2023 EngSub
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Gran.Turismo.2023.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Mat.Tudung.Begins.2023.1080p
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Mat.Tudung.Begins.2023.1080p.WEB-DL.mp4
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", ELEMENTAL 2023 SRT
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/SRT%20Watch%20Elemental%20Online%20free%20-%20ev01.net.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", POLIS EVO 3 2023
+https://onedrive-vercel-index-rouge.vercel.app/api/raw/?path=/POLIS%20EVO%202023%20AOTG.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", RAHSIA 2023
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Rahsia.2023.1080p.WEB-DL.DD5.1.H.264.Quickie4u.mkv
+
+###Gdrive###
+
+#EXTINF:-1 group-title="VOD Gdrive"="724" tvg-logo="",ELEMENTAL 2023 
+https://www.googleapis.com/drive/v3/files/14yXlkZnTrBqr8JOIo4lcoq0UIW4F6M4t?alt=media&key=AIzaSyAawt3K31DprMbNOBFtUPiflcVGvOopgJk
+
+#EXTINF:-1 group-title="VOD Gdrive"="724" tvg-logo="",BLACK WIDOW 2021  
+#http://chilp.it/aaebd39 
+
+###Tele###
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",MAT BOND 2021  
+#https://botxdirect.herokuapp.com/153744019547450785568445404/Mat_Bond_Malaya_2021_1080p_PPVHD_Malay_Hardsub_@portalmalay.mp4 
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",BUSUNG KATAK  
+#https://download.on9.stream/?sig=jE8ZYOLC5r6f8mAJFuCcXoZtVtbqR1kzaDaTdGYIeJUj1HlO1A36lalhR5bc927F2hrtM2YWQjZY-ZucevOgehZUkh7uKizqJJhY7wGqZnq7CaEMWq2ZTuz6qd-nsZQ_pjdnYUJpINCNdt9veURZTs4paALhuVq09aKNWJ2HuKRtx46HD_i_jEzMLNDWmd-v
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",penunggangAgama2021 
+#https://botxdirect.herokuapp.com/221038701159035062760297436/Penunggang.Agama.2.2021.1080p.WEB-DL.mkv
+ 
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",Fast9 
+#http://chilp.it/c58017a 
+ 
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", TheKissingBooth3 
+#http://chilp.it/a2a889b 
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", RogueHostage
+#http://chilp.it/b0696cd
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", Hutang2d
+#https://botxdirect.herokuapp.com/152043451104783649424069596/Hutang.2D.2021.1080p.WEBRip-ms.en-PENCURiMOViE.CYOU.mkv
+
+###idm###
+
+#EXTINF:-1 group-title="VOD Idm"="724" tvg-logo="",VIVO chilp 
+#http://chilp.it/c74a110
+
+#EXTINF:-1 group-title="VOD Idm"="724" tvg-logo="",ESCAPE ROOM2
+#https://www.googleapis.com/drive/v3/files/1w9JdqtErc5RbCBpMD8PFRv9k2qddXwJy?alt=media&key=AIzaSyAawt3K31DprMbNOBFtUPiflcVGvOopgJk
+
+
 <!-- RADIO -->
 
 #EXTINF:-1 tvg-id="HITZ" tvg-name="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio",852 HITZ FM
