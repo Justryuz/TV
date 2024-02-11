@@ -1421,11 +1421,10 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default.mpd
 
 <!-- Testing Channel Backup -->
 
-
-#EXTINF:-1 group-title="TESTING BACKUP" tvg-id="Astro" ch-number="" tvg-logo="",Awesome tv HD
+#EXTINF:-1 group-title="TESTING BACKUP" tvg-id="Sooka" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sooka_Drama_Hebat.png/450px-Sooka_Drama_Hebat.png", Astro | Testing
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-http://185.225.191.46:25461/live/F2590/4729/12.ts?token=SRFdBBdcFwpGUFQFV1BTAQELB14BAQpVVVYDCwNUWgEBC1EBVgVRUVxHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAcPAl0BBQpJFBNZVhEPR1YMAgFTR01DUE4WUUVWUgpnVFxBDFNREF9YFlxeHxcKCmtRVQkEDwUXDEAEFRQRD0tAGw0LRVheSRQBWUZBVBEBFg8SVVZTUBcaQFdYTV0SSkkbDUd9bRBJFAZIRlZbFg1bWxJeRxUSFxpAXURnQQNLREtSBF1RQEcMQQAQHxcIBUxqUwsLDwRWQgtbWUsRXBoCGxtHXVtcDEIMQm1DXAFGDhcDVVRWUhdL
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default.mpd
 
 #EXTINF:-1 group-title="TESTING BACKUP" tvg-id="Sooka" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sooka_Drama_Hebat.png/450px-Sooka_Drama_Hebat.png", Sooka | Drama Hebat
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
