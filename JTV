@@ -1447,6 +1447,20 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default.mpd
 http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571231
 
 
+#EXTINF:-1 tvg-logo="____" group-title="TESTING BACKUP", ASTRO OASIS
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571238&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="TESTING BACKUP", ASTRO PREMIER
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=5712430&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="TESTING BACKUP", STAR VIJAY
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571235&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="TESTING BACKUP", ASTRO AOD 353
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571229&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="TESTING BACKUP", Animal Planet
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571227&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="____" group-title="TESTING BACKUP", ASTRO AOD 351
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=5712426&extension=ts&play_token=GVZS088tcf
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
