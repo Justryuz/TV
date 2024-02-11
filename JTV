@@ -1421,10 +1421,20 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default.mpd
 
 <!-- Testing Channel Backup -->
 
-#EXTINF:-1 group-title="TESTING BACKUP" tvg-id="Sooka" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sooka_Drama_Hebat.png/450px-Sooka_Drama_Hebat.png", Astro | Testing
+#EXTINF:-1 group-title="TESTING BACKUP" tvg-id="Sooka" ch-number="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Astro_Go_Logo.png/revision/latest?cb=20190131053248", Astro | Testing
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default.mpd
+
+#EXTINF:-1 group-title="TESTING BACKUP" tvg-id="Sooka" ch-number="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Astro_Go_Logo.png/revision/latest?cb=20190131053248", Astro | Testing 1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c53c4a9d-ed16-5dcb-920d-287204cd8a31/default_dash.mpd
+
+#EXTINF:-1 group-title="TESTING BACKUP" tvg-id="Sooka" ch-number="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Astro_Go_Logo.png/revision/latest?cb=20190131053248", Astro | Testing 2
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/811cbd26-0686-52a3-8422-caad9aec9a32/default_dash.mpd
 
 #EXTINF:-1 group-title="TESTING BACKUP" tvg-id="Sooka" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sooka_Drama_Hebat.png/450px-Sooka_Drama_Hebat.png", Sooka | Drama Hebat
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
