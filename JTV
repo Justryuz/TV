@@ -1399,6 +1399,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena2 HD" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="EXPERIMENTAL",TEST", 802 Astro Arena 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
+#EXTINF:-1 tvg-id="GOXUAN" tvg-name="GOXUAN" ch-number="877" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png" group-title="Radio",877 GO XUAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7x584+UKeHiM4YMc6o4YfQ", "kid":"7nOKZ3dtFH6V+V3yfmJrEA" } ], "type":"temporary" }
+http://62.210.113.122:25461/Q5023/5286/200?token=SRFdBBdcFwpGVwBQBANTAFQNAlQMBwAFXAEDAgcPBQhWClNdVgMNAlxHTUNGQhBRVlVsD1wSAwVVABgQEEUGQm1aUUdeFgQAV1NTQxkUFl1aXRFcCQcJAFMHAgNTB08SQlpRR14WDQBRXENNF1MaQFJKXQdUb11SE1lXV0cMDUVeXxlHC1pqVAEIAA9RFFgWBxofRFFDSRVfXkFeCRpBUltHRwQQURcKRlRXVgcUThZUV0YITEJAFV8SeWtHGkFVSkdQCxddWl5GX0MVRhROFl5LbBRdQ01FAFFZVxcUWRICERlHCVVNbwcKDw9QVRZdWFZARAISCxVJElldC18XX0BsRQwAFg8SVlxRWAAUHw==
+
+
 
 <!-- Indonesia Testing -->
 
@@ -2660,7 +2666,7 @@ http://metatvpro.com:25461/live/F2590/4729/7.ts
 TV OKEY HD,
 http://metatvpro.com:25461/live/F2590/4729/9.ts
 Okey tv (direct source),
-http://metatvpro.com:25461/live/F2590/4729/13699.ts
+http://metatvpro.com:25461/live/F2590/4729/13699.ts | https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
 TVS,
 http://metatvpro.com:25461/live/F2590/4729/11.ts
 Awesome tv HD,
@@ -2689,50 +2695,7 @@ TV6,
 http://metatvpro.com:25461/live/F2590/4729/13124.ts
 TVB Magic,
 http://metatvpro.com:25461/live/F2590/4729/15839.ts
-TV1 HD,
-http://metatvpro.com:25461/live/LT186743/8181/1.ts
-TV2 HD,
-http://metatvpro.com:25461/live/LT186743/8181/2.ts
-TV3 HD,
-http://metatvpro.com:25461/live/LT186743/8181/3.ts
-NTV7 HD,
-http://metatvpro.com:25461/live/LT186743/8181/5.ts
-8TV HD,
-http://metatvpro.com:25461/live/LT186743/8181/6.ts
-TV9 HD,
-http://metatvpro.com:25461/live/LT186743/8181/7.ts
-TV OKEY HD,
-http://metatvpro.com:25461/live/LT186743/8181/9.ts
-Okey tv (direct source),
-http://metatvpro.com:25461/live/LT186743/8181/13699.ts
-TVS,
-http://metatvpro.com:25461/live/LT186743/8181/11.ts
-Awesome tv HD,
-http://metatvpro.com:25461/live/LT186743/8181/12.ts
-Astro Ria HD,
-http://metatvpro.com:25461/live/LT186743/8181/13.ts
-Astro Prima HD,
-http://metatvpro.com:25461/live/LT186743/8181/14.ts
-Astro Oasis HD,
-http://metatvpro.com:25461/live/LT186743/8181/15.ts
-Astro Warna HD,
-http://metatvpro.com:25461/live/LT186743/8181/16.ts
-Astro Citra,
-http://metatvpro.com:25461/live/LT186743/8181/17.ts
-Astro Rania HD,
-http://metatvpro.com:25461/live/LT186743/8181/13554.ts
-Astro Aura HD,
-http://metatvpro.com:25461/live/LT186743/8181/13555.ts
-Al-Hijrah HD,
-http://metatvpro.com:25461/live/LT186743/8181/19.ts
-TV IKIM,
-http://metatvpro.com:25461/live/LT186743/8181/13122.ts
-Berita RTM,
-http://metatvpro.com:25461/live/LT186743/8181/13123.ts
-TV6,
-http://metatvpro.com:25461/live/LT186743/8181/13124.ts
-TVB Magic,
-http://metatvpro.com:25461/live/LT186743/8181/15839.ts
+
 
 <!-- UnifiTV -->
 
