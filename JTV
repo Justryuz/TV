@@ -1452,7 +1452,7 @@ http://line.senpay23.com:80/96579d42b9/6c652d0906b9/571231
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="TESTING BACKUP" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Prima.png",105 ASTRO PRIMA
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 
