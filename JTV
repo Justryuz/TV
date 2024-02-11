@@ -59,14 +59,14 @@ http://185.225.191.46:25461/live/LT186743/8181/13.ts?token=SRFdBBdcFwpGUFQFV1BTA
 #EXTINF:-1 tvg-id="Astro Warna" tvg-name="Astro Ria Warna" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-http://185.225.191.46:25461/live/F2590/4729/16.ts?token=SRFdBBdcFwpGUFQFV1BTAQELB14BAQpVVVYDCwNUWgEBC1EBVgVRUVxHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAcPAl0BBQpJFBNZVhEPR1YMAgFTR01DUE4WUUVWUgpnVFxBDFNREF9YFlxeHxcKCmtRVQkEDwUXDEAEFRQRD0tAGw0LRVheSRQBWUZBVBEBFg8SVVZTUBcaQFdYTV0SSkkbDUd9bRBJFAZIRlZbFg1bWxJeRxUSFxpAXURnQQNLREtSBF1RQEcMQQAQHxcIBUxqUwsLDwRWQgtbWUsRXBoCGxtHXVtcDEIMQm1DXAFGDhcDVVRWUhdL
+#http://185.225.191.46:25461/live/F2590/4729/16.ts?token=SRFdBBdcFwpGUFQFV1BTAQELB14BAQpVVVYDCwNUWgEBC1EBVgVRUVxHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAcPAl0BBQpJFBNZVhEPR1YMAgFTR01DUE4WUUVWUgpnVFxBDFNREF9YFlxeHxcKCmtRVQkEDwUXDEAEFRQRD0tAGw0LRVheSRQBWUZBVBEBFg8SVVZTUBcaQFdYTV0SSkkbDUd9bRBJFAZIRlZbFg1bWxJeRxUSFxpAXURnQQNLREtSBF1RQEcMQQAQHxcIBUxqUwsLDwRWQgtbWUsRXBoCGxtHXVtcDEIMQm1DXAFGDhcDVVRWUhdL
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nft6B.png",Astro Warna
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna
 http://185.225.191.46:25461/live/LT186743/8181/14.ts?token=SRFdBBdcFwpGUFQFV1BTAQELB14BAQpVVVYDCwNUWgEBC1EBVgVRUVxHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAcPAl0BBQpJFBNZVhEPR1YMAgFTR01DUE4WUUVWUgpnVFxBDFNREF9YFlxeHxcKCmtRVQkEDwUXDEAEFRQRD0tAGw0LRVheSRQBWUZBVBEBFg8SVVZTUBcaQFdYTV0SSkkbDUd9bRBJFAZIRlZbFg1bWxJeRxUSFxpAXURnQQNLREtSBF1RQEcMQQAQHxcIBUxqUwsLDwRWQgtbWUsRXBoCGxtHXVtcDEIMQm1DXAFGDhcDVVRWUhdL
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
