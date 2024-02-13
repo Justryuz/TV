@@ -1331,64 +1331,40 @@ https://linear07-playback.sooka.my/CH5/masterCH5.mpd
 
 <!---------  TEST ---------->
 
-#EXTINF:-1 tvg-id="GOXUAN" tvg-name="GOXUAN" ch-number="877" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png" group-title="EXPERIMENTAL",TEST",HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7x584+UKeHiM4YMc6o4YfQ", "kid":"7nOKZ3dtFH6V+V3yfmJrEA" } ], "type":"temporary" }
-http://62.210.113.122:25461/Q5023/5286/200?token=SRFdBBdcFwpGVwBQBANTAFQNAlQMBwAFXAEDAgcPBQhWClNdVgMNAlxHTUNGQhBRVlVsD1wSAwVVABgQEEUGQm1aUUdeFgQAV1NTQxkUFl1aXRFcCQcJAFMHAgNTB08SQlpRR14WDQBRXENNF1MaQFJKXQdUb11SE1lXV0cMDUVeXxlHC1pqVAEIAA9RFFgWBxofRFFDSRVfXkFeCRpBUltHRwQQURcKRlRXVgcUThZUV0YITEJAFV8SeWtHGkFVSkdQCxddWl5GX0MVRhROFl5LbBRdQ01FAFFZVxcUWRICERlHCVVNbwcKDw9QVRZdWFZARAISCxVJElldC18XX0BsRQwAFg8SVlxRWAAUHw==
+#EXTINF:-1 group-title="EXPERIMENTAL",TEST" tvg-id="AstroRia" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria bekup
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
+https://linears-playback.astro.com.my/vsg/41dKS1PonH0R7zcrnNWUf7fA8GbGArKt_Efm4DivCp1Fk=9iH6/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
-
-
-##EXTINF:-1 group-title="EXPERIMENTAL",TEST" tvg-id="AstroRia" ch-number="104" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
-##https://linearjitp02-playback.astro.com.my/vsg/41Q2JOX8KtOe28ba8x3splIguOrP487D2BAVqzhfqNLpU=z4VY/dash-wv/jitp-linearwm/1004/default.mpd
-##https://ktpremium.com:443/N197NGF/8199/912833
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
-
-##EXTINF:-1 tvg-id="AstroPrima" group-title="EXPERIMENTAL",TEST" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+#EXTINF:-1 tvg-id="AstroPrima" group-title="EXPERIMENTAL",TEST" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310": "8412f444ffbe350cf2ece051f9152e90"}
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroOasis" group-title="EXPERIMENTAL",TEST" ch-number="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",106 Astro Oasis
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"17d5d62dc61954b82ee016da264abd10": "5f35f815699140e2649d825f0d24028e"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-##EXTINF:-1 tvg-id="AstroWarna" group-title="EXPERIMENTAL",TEST" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-##https://aqfadtv.xyz/live/warna/index.mpd
-##https://linearjitp02-playback.astro.com.my/vsg/41VKHsj_WiLj_8PIlULli0WzUrKeL5iqw_9atJ6Dnlv8k=-VNo/dash-wv/jitp-linearwm/2402/default.mpd
-##http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/1706.ts
-##https://ktpremium.com:443/N197NGF/8199/25867
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
+#EXTINF:-1 tvg-id="AstroWarna" group-title="EXPERIMENTAL",TEST" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810": "0a80e20c568e88e53c7087c1c6493318"}
+https://linears-playback.astro.com.my/vsg/41n12pdkxBBxKrI60H-qXpiobawz9wGT0BVKFWC4AyNOw=mX0K/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 
-##EXTINF:-1 tvg-id="AstroCitra" group-title="EXPERIMENTAL",TEST" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-##https://aqfadtv.xyz/live/citra/index.mpd
-##https://linearjitp02-playback.astro.com.my/vsg/41VKHsj_WiLj_8PIlULli0WzhUDi-8zGm7sgyhAlDF5UQ=UBTa/dash-wv/jitp-dashisowm/2700/default.mpd
-##https://ktpremium.com:443/N197NGF/8199/25852
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
-
-#EXTINF:-1 tvg-id="AstroRania" group-title="EXPERIMENTAL",TEST" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/608/default.mpd
-
-#EXTINF:-1 tvg-id="AstroAura" group-title="EXPERIMENTAL",TEST" ch-number="113" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/609/default.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Viu_logo.svg/1200px-Viu_logo.svg.png" tvg-id="CHN" tvg-chno="CHN" group-title="EXPERIMENTAL",TEST",Viu TV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
-
-#EXTINF:0 tvg-name="TEST" tvg-ID="astroria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="EXPERIMENTAL",TEST", Testing
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
-https://www.dailymotion.com/cdn/manifest/video/x8s8bcc.m3u8?sec=e7IZOAOUTYS3exWmMSjXMDJ3FTeuVCH2Uvqdq1aJoc8-Qdv2yQbGNbrF3tg34WgG&dmTs=129263&dmV1st=48a136ea-bf15-4a7b-8a44-07891a320da3
+#EXTINF:-1 tvg-id="AstroCitra" group-title="EXPERIMENTAL",TEST" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
+https://linears-playback.astro.com.my/vsg/41YaAG0OfnJYVO1fSPj922sUKeilxPHhhaNPDKKau0HyY=PN9b/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-name="Astro Arena HD" group-title="EXPERIMENTAL",TEST" ch-number="801" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/801.png", 801 Astro Arena
