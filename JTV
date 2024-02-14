@@ -43,13 +43,13 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NK3OJ.png",Astro Ria HD CH104
-http://metatvpro.com:25461/live/LT186743/8181/13.ts
+http://185.225.191.46:25461/live/LT186743/8181/13.ts?token=SRFdBBdcFwpGUFVYAVQDAgMAAQBbUw0HUFYGCwQHB1NXUA1UAlEHVQBHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAcABFUGBAVJFBNZVhEPR1MGBQFGSUMETUIHRllZXzlcVU9eBlUWCAtDD1weEVoLO1BQXQULBUMPFFIWGxpaFUgSA1kQXFgeR1QKREBSQQBGDhcBV1dRQxkUAVtCVkcUQRIDFShpFh5HUxtEV11GDAtaFwpGERJDGRQLR2hKVhVMQlxWCFVGEF8UUxIeEVgEHGtWXwoLBAJBXw1aRBoJRAoSFRUIX1pbEVkRb0JaUUdeFgYBVVJSQ0g=
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nft6B.png",Astro Prima HD CH105
-http://metatvpro.com:25461/live/LT186743/8181/14.ts
+http://185.225.191.46:25461/live/LT186743/8181/14.ts?token=SRFdBBdcFwpGUFVYAVQDAgMAAQBbUw0HUFYGCwQHB1NXUA1UAlEHVQBHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAcABFUGBAVJFBNZVhEPR1MGBQFGSUMETUIHRllZXzlcVU9eBlUWCAtDD1weEVoLO1BQXQULBUMPFFIWGxpaFUgSA1kQXFgeR1QKREBSQQBGDhcBV1dRQxkUAVtCVkcUQRIDFShpFh5HUxtEV11GDAtaFwpGERJDGRQLR2hKVhVMQlxWCFVGEF8UUxIeEVgEHGtWXwoLBAJBXw1aRBoJRAoSFRUIX1pbEVkRb0JaUUdeFgYBVVJSQ0g=
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -62,14 +62,14 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nfp8F.png",Astro Warna HD CH107
-http://metatvpro.com:25461/live/LT186743/8181/16.ts
+http://185.225.191.46:25461/live/LT186743/8181/16.ts?token=SRFdBBdcFwpGUFVYAVQDAgMAAQBbUw0HUFYGCwQHB1NXUA1UAlEHVQBHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAcABFUGBAVJFBNZVhEPR1MGBQFGSUMETUIHRllZXzlcVU9eBlUWCAtDD1weEVoLO1BQXQULBUMPFFIWGxpaFUgSA1kQXFgeR1QKREBSQQBGDhcBV1dRQxkUAVtCVkcUQRIDFShpFh5HUxtEV11GDAtaFwpGERJDGRQLR2hKVhVMQlxWCFVGEF8UUxIeEVgEHGtWXwoLBAJBXw1aRBoJRAoSFRUIX1pbEVkRb0JaUUdeFgYBVVJSQ0g=
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nfyyg.png",Astro Citra HD CH108
-http://metatvpro.com:25461/live/LT186743/8181/17.ts
+http://185.225.191.46:25461/live/LT186743/8181/17.ts?token=SRFdBBdcFwpGUFVYAVQDAgMAAQBbUw0HUFYGCwQHB1NXUA1UAlEHVQBHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCAcABFUGBAVJFBNZVhEPR1MGBQFGSUMETUIHRllZXzlcVU9eBlUWCAtDD1weEVoLO1BQXQULBUMPFFIWGxpaFUgSA1kQXFgeR1QKREBSQQBGDhcBV1dRQxkUAVtCVkcUQRIDFShpFh5HUxtEV11GDAtaFwpGERJDGRQLR2hKVhVMQlxWCFVGEF8UUxIeEVgEHGtWXwoLBAJBXw1aRBoJRAoSFRUIX1pbEVkRb0JaUUdeFgYBVVJSQ0g=
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -168,6 +168,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/705/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nq4KN.png",Astro Vaanavil HD CH201
 <!-- https://linearjitp02-playback.astro.com.my/dash-wv/linear/2309/default.mpd -->
+#https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
