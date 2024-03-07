@@ -5,7 +5,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" 
 refresh="3600"
 
-#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml",refresh="3600"  refresh="1440" billed-msg="V2.6 - 26/2/2024 | By JustryuzTV" vod_library="https://fahmikacak.pages.dev/HBOGO%20Asia, https://shz.al/KSzH"
+#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml",refresh="3600"  refresh="1440" billed-msg="V2.6 - 07/03/2024 | By JustryuzTV" vod_library="https://fahmikacak.pages.dev/HBOGO%20Asia, https://shz.al/KSzH"
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJndWVzdDI1NUBtb3JhdGVsaW5kby5jb20iLCJzZXNzaW9uSWQiOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjlleUpqZFhKeVpXNTBVMlZ6YzJsdmJrbGtJam9pWVRNeU1EQmtObVF0TURoa05pMDBaR1ppTFRsaU5HWXRZMlF6WVdFME1XRTNaRGxpSWl3aVkzVnljbVZ1ZEVSbGRtbGpaVlI1Y0dVaU9pSkJJaXdpWTNWeWNtVnVkRkJzWVhSbWIzSnRTV1FpT2lJME1ESTRZelk0TlRZek5XRXdZell6TURFMk16VmhNVEUzWVRabE1EQXdNaUlzSW5ScGJXVjZiMjVsSWpvaVFYTnBZUzlLWVd0aGNuUmhJaXdpWVhWMGFHOXlhWFI1SWpvaVVrOU1SVjlWVTBWU0lpd2laWGh3SWpveE56QTBNemMxT1RJd0xDSjFjMlZ5U1dRaU9pSTBNREk0TkRobE5EZGpaR0U1TTJVNE1ERTNaR1poT0RBeU5XSm1NemRrTXlJc0ltUmxkbWxqWlVsa0lqb2lNRGhrTm1JNFlURmlaRFpqT0RKalppSXNJbWxoZENJNk1UY3dNRGM0TXpreU1Dd2lkWE5sY201aGJXVWlPaUpuZFdWemRERXdNalV4UUcxdmNtRjBaV3hwYm1SdkxtTnZiU0o5LlpwLVpuZkdmVEFKdjJRS0FMbE40ZnJmVVhQQ3gtUzFzWGg2UUFQZmVtdHciLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0"}
