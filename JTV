@@ -3029,17 +3029,17 @@ refresh="3600"
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5262cbebead64f42aa8317e3cb13106c": "17fbade6a94f5271a6a7c56374bf6d8e"}
-https://linear08-playback.sooka.my/CH3/masterCH3.mpd
+https://live.mana2.my/Tv1/index.m3u8?auth_key=1709793824-b7b6fd6785a54331bde08c56b7f72060-0-35d58f8ad6744f8fce8704f17e85ddc0&token=1709793824-b7b6fd6785a54331bde08c56b7f72060-0-35d58f8ad6744f8fce8704f17e85ddc0
 
 #EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",102 TV2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f7beeac200af40d5886dfe98d72fcfc8": "e863f7149e52f7526bf744034e27ce8d"}
-https://linear08-playback.sooka.my/CH1/masterCH1.mpd
+https://live.mana2.my/Tv2/index.m3u8?auth_key=1709793855-d4bcb0d6654944f094afc036e8841c1d-0-2f55109be393d9efef1d655615ca2788&token=1709793855-d4bcb0d6654944f094afc036e8841c1d-0-2f55109be393d9efef1d655615ca2788
 
 #EXTINF:-1 tvg-id="113" tvg-name="TV6" group-title="myFreeview" tvg-logo="https://i.ibb.co/LPVMhTq/tv6.png",113 TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
+https://live.mana2.my/Tv6/index.m3u8?auth_key=1709793893-864e996092654502b18484ba5013da86-0-57d4b577b291cad014c968a3d704580a&token=1709793893-864e996092654502b18484ba5013da86-0-57d4b577b291cad014c968a3d704580a
 
 #EXTINF:-1 tvg-id=" " group-title="myFreeview" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
 #EXTVLCOPT:http-referrer=https://dailymotion.com
@@ -3051,51 +3051,71 @@ https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="myFreeview" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2496000_slENG.m3u8?id=5
+https://live.mana2.my/BeritaRtm/index.m3u8?auth_key=1709793999-991ed6fcb6904ed1a547fcd4a70d72c0-0-42da93993c94f01300fa235f27f05f5d&token=1709793999-991ed6fcb6904ed1a547fcd4a70d72c0-0-42da93993c94f01300fa235f27f05f5d
 
 #EXTINF:-1 tvg-id=" " group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM Sports HD
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b654000_slENG.m3u8?id=4
+https://live.mana2.my/SukanRtm/index.m3u8?auth_key=1709793954-3b22ae7b7ac9477fa1c883e6db1b5558-0-7e232d04969016ae8c548ccb219fdc13&token=1709793954-3b22ae7b7ac9477fa1c883e6db1b5558-0-7e232d04969016ae8c548ccb219fdc13
 
 #EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="myFreeview",114 TV AlHijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1709793930-5df033ca0f4649c89d6f512e93dcf56c-0-9c0cb6d6b2254294d19936bc9a56fc1f&token=1709793930-5df033ca0f4649c89d6f512e93dcf56c-0-9c0cb6d6b2254294d19936bc9a56fc1f
 
 
 #EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+https://live.mana2.my/TvS/index.m3u8?auth_key=1709794040-e7c08a0a71654397b2ccf5fe011aa23a-0-5c8202cd615c15d8e13a3218d0829957&token=1709794040-e7c08a0a71654397b2ccf5fe011aa23a-0-5c8202cd615c15d8e13a3218d0829957
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211
 #EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI6bhqSuMTkGVuc4nw3jy_86NZKSJBXH3maXNmuqEPX3pg30s4APk27wo&usqp=CAU",123 Awesome TV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
-
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
+https://live.mana2.my/TvOkey/index.m3u8?auth_key=1709794073-ceb4552892534394998274a2d3d9801c-0-9b379e10d85333e32b75aafcf25f304c&token=1709794073-ceb4552892534394998274a2d3d9801c-0-9b379e10d85333e32b75aafcf25f304c
 
-#EXTINF:-1 tvg-id="Ntv7" ch-number="147" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",147 Ntv7
+#EXTINF:-1 tvg-id="BernamaTV" ch-number="150" group-title="myFreeview" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/ivnvsj.png",150 BernamaTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
-https://aqfadtv.xyz/live/didiktvkpm/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://live.mana2.my/Bernama/index.m3u8?auth_key=1709794117-937efb09f4894ef98ef15313ff17d0ca-0-6c92c8490daec338b9bc036e12dde26c&token=1709794117-937efb09f4894ef98ef15313ff17d0ca-0-6c92c8490daec338b9bc036e12dde26c
 
-
-#EXTINF:-1 tvg-id="8TV" ch-number="148" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV 
+#EXTINF:-1 tvg-id="SukeTV" ch-number="150" group-title="myFreeview" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/utgwdm.png",150 SukeTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
-https://aqfadtv.xyz/live/8tv/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1709794563-ea64ba40a1b8422eaf9126900cedfc98-0-18a3325dffd1c02c1eff2494818c4e0e&token=1709794563-ea64ba40a1b8422eaf9126900cedfc98-0-18a3325dffd1c02c1eff2494818c4e0e
 
-#EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="myFreeview" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",149 TV9
+#EXTINF:-1 tvg-id="TVIKIM" ch-number="150" group-title="myFreeview" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/ymaugh.png",TVIKIM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-https://aqfadtv.xyz/live/tv9/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1709794563-ea64ba40a1b8422eaf9126900cedfc98-0-18a3325dffd1c02c1eff2494818c4e0e&token=1709794563-ea64ba40a1b8422eaf9126900cedfc98-0-18a3325dffd1c02c1eff2494818c4e0e
 
-#EXTINF:-1 tvg-id="GOShop" ch-number="149" group-title="myFreeview" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",150 Go Shop  
-https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
+#EXTINF:-1 tvg-id="SelangorTV" ch-number="150" group-title="myFreeview" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/emwijp.png",150 SelangorTV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1709794620-2dd3f7e9c8c949c7bfe8c3899ad6bf15-0-66881c4df351482c43ef3aafbc48b0f3&token=1709794620-2dd3f7e9c8c949c7bfe8c3899ad6bf15-0-66881c4df351482c43ef3aafbc48b0f3
+
+#EXTINF:-1 tvg-id="MY CINEMA EUROPE" ch-number="150" group-title="myFreeview" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tacihx.png",MY CINEMA EUROPE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://live.mana2.my/MyCinemaEurope/index.m3u8?auth_key=1709795332-ff4b03f0cbf549b994701cd0ef30b6ee-0-78eebf54c9eb3175051f1bacf55bd6ff&token=1709795332-ff4b03f0cbf549b994701cd0ef30b6ee-0-78eebf54c9eb3175051f1bacf55bd6ff
+
+#EXTINF:-1 tvg-id="HORIZON SPORTS " ch-number="150" group-title="myFreeview" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/wsmwux.png",HORIZON SPORTS 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://live.mana2.my/HorizonSports/index.m3u8?auth_key=1709795426-973d2f85bed64fae9212f05db6b6bc96-0-48cd608a868c754cae35cc75b7775c3a&token=1709795426-973d2f85bed64fae9212f05db6b6bc96-0-48cd608a868c754cae35cc75b7775c3a
+
+#EXTINF:-1 tvg-id="HotFM" ch-number="151" group-title="myFreeview" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/ricpjn.png",HotFM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://live.mana2.my/HotFm/index.m3u8?auth_key=1709793671-72a76e7ba19a49bbbab5d7fc93c3fc87-0-d8650ca121fea7781185a67ac2e55adf&token=1709793671-72a76e7ba19a49bbbab5d7fc93c3fc87-0-d8650ca121fea7781185a67ac2e55adf
+
+#EXTINF:-1 tvg-id="HotFM" ch-number="152" group-title="myFreeview" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/ricpjn.png",HotFM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://live.mana2.my/HotFm/index.m3u8?auth_key=1709793671-72a76e7ba19a49bbbab5d7fc93c3fc87-0-d8650ca121fea7781185a67ac2e55adf&token=1709793671-72a76e7ba19a49bbbab5d7fc93c3fc87-0-d8650ca121fea7781185a67ac2e55adf
 
 </noscript>
