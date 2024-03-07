@@ -3100,6 +3100,32 @@ https://live.mana2.my/MyCinemaEurope/index.m3u8?auth_key=1709795332-ff4b03f0cbf5
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
 https://live.mana2.my/HorizonSports/index.m3u8?auth_key=1709795426-973d2f85bed64fae9212f05db6b6bc96-0-48cd608a868c754cae35cc75b7775c3a&token=1709795426-973d2f85bed64fae9212f05db6b6bc96-0-48cd608a868c754cae35cc75b7775c3a
 
+#EXTINF:-1 tvg-id="CNA" ch-number="150" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/mytv/images/mytv-manatv-logo.png" group-title="MYTV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/gxjxvu.png",CNA 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://live.mana2.my/CNA/index.m3u8?auth_key=1709797970-67ca1037a9e049828fee3056e72d34bb-0-602fff4a2e935b88eae9357c2e19429f&token=1709797970-67ca1037a9e049828fee3056e72d34bb-0-602fff4a2e935b88eae9357c2e19429f
+
+#EXTINF:-1 tvg-id="MOTOR RACING TV" ch-number="150" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/mytv/images/mytv-manatv-logo.png" group-title="MYTV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/jzxyzm.png",MOTOR RACING TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://live.mana2.my/MotorracingTv/index.m3u8?auth_key=1709798024-73aa0bfc671d4ad3b3cbc45ca53060f7-0-85981e42733923de7b73c860e81644b1&token=1709798024-73aa0bfc671d4ad3b3cbc45ca53060f7-0-85981e42733923de7b73c860e81644b1
+
+#EXTINF:-1 tvg-id="DW" ch-number="150" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/mytv/images/mytv-manatv-logo.png" group-title="MYTV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/pftlum.jpeg",DW 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://live.mana2.my/DW/index.m3u8?auth_key=1709798056-9a11aa20c1ee49118ccc7f1f6d6ae71b-0-5b1b757ef7103a2570b4e6ecb55f8b6c&token=1709798056-9a11aa20c1ee49118ccc7f1f6d6ae71b-0-5b1b757ef7103a2570b4e6ecb55f8b6c
+
+#EXTINF:-1 tvg-id="DW" ch-number="150" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/mytv/images/mytv-manatv-logo.png" group-title="MYTV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/dtmwqm.png",TVRI NASIONAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://live.mana2.my/TvriNasional/index.m3u8?auth_key=1709798221-c5f2ee82f00c4df0827ce73b7277778a-0-c005ef9dc218a3b18e4a02d9176466b1&token=1709798221-c5f2ee82f00c4df0827ce73b7277778a-0-c005ef9dc218a3b18e4a02d9176466b1
+
+#EXTINF:-1 tvg-id="DW" ch-number="150" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/mytv/images/mytv-manatv-logo.png" group-title="MYTV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/jjwxot.png",TVRI WORLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://live.mana2.my/TvriWorld/index.m3u8?auth_key=1709798255-f25da40697a743a1a28c88c7c5c3612b-0-b616ad1bd69fd235b5ca4035c33440b2&token=1709798255-f25da40697a743a1a28c88c7c5c3612b-0-b616ad1bd69fd235b5ca4035c33440b2
+
+
 #EXTINF:-1 tvg-id="HotFM" ch-number="151" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/mytv/images/mytv-manatv-logo.png" group-title="MYTV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/ricpjn.png",HotFM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
