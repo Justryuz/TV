@@ -262,8 +262,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NBqWx.png",iQIYI HD CH300
-http://mmu032.wanicelife.com:8880/live/29ca10243n03/3red53r33/71038.ts?type=hls
-
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1006/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
