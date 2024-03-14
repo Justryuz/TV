@@ -3751,14 +3751,14 @@ refresh="3600"
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5262cbebead64f42aa8317e3cb13106c": "17fbade6a94f5271a6a7c56374bf6d8e"}
-https://live.mana2.my/Tv1/index.m3u8?auth_key=1709793824-b7b6fd6785a54331bde08c56b7f72060-0-35d58f8ad6744f8fce8704f17e85ddc0&token=1709793824-b7b6fd6785a54331bde08c56b7f72060-0-35d58f8ad6744f8fce8704f17e85ddc0
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="MYTV" ch-number="102" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",102 TV2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f7beeac200af40d5886dfe98d72fcfc8": "e863f7149e52f7526bf744034e27ce8d"}
-https://live.mana2.my/Tv2/index.m3u8?auth_key=1709793855-d4bcb0d6654944f094afc036e8841c1d-0-2f55109be393d9efef1d655615ca2788&token=1709793855-d4bcb0d6654944f094afc036e8841c1d-0-2f55109be393d9efef1d655615ca2788
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 #EXTINF:-1 tvg-id="113" group-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" tvg-name="TV6" group-title="MYTV" tvg-logo="https://i.ibb.co/LPVMhTq/tv6.png",113 TV6
 https://live.mana2.my/Tv6/index.m3u8?auth_key=1709793893-864e996092654502b18484ba5013da86-0-57d4b577b291cad014c968a3d704580a&token=1709793893-864e996092654502b18484ba5013da86-0-57d4b577b291cad014c968a3d704580a
