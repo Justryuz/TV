@@ -939,6 +939,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default.mpd
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="AstroGO - SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nz0AP.png",Astro Cricket CH824
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
+
 ########################SOOKA LIVE TV##############
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2181,6 +2182,18 @@ http://118.98.229.118:1935/live/tve.stream/chunklist_w1331085451.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-name="ACUARIO" group-title="EXPERIMENTAL",TEST",!! CONTRATA PREMIUM !!
+https://www.youtube.com/watch?v=uRONDX6mF5A
+#EXTINF:-1 group-title="EXPERIMENTAL",TEST",CANALES - PELICULAS Y SERIES
+https://www.youtube.com/watch?v=uRONDX6mF5A
+#EXTINF:-1 tvg-name="Ibiza Summer Mix 2023" group-title="EXPERIMENTAL",TEST",$ 8 MENSUALES 3 DISPOSITIVOS
+https://www.youtube.com/watch?v=LICxmsmxMv4
+#EXTINF:-1 group-title="EXPERIMENTAL",TEST",WHATSAPP 
+https://www.youtube.com/watch?v=uRONDX6mF5A
+#EXTINF:-1 group-title="EXPERIMENTAL",TEST",0 9 9 0 4 8 8 0 0 8
+https://www.youtube.com/watch?v=uRONDX6mF5A
 
 
 <!-- MTV -->
