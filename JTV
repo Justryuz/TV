@@ -2183,17 +2183,6 @@ http://118.98.229.118:1935/live/tve.stream/chunklist_w1331085451.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-name="ACUARIO" group-title="EXPERIMENTAL",TEST",!! CONTRATA PREMIUM !!
-https://www.youtube.com/watch?v=uRONDX6mF5A
-#EXTINF:-1 group-title="EXPERIMENTAL",TEST",CANALES - PELICULAS Y SERIES
-https://www.youtube.com/watch?v=uRONDX6mF5A
-#EXTINF:-1 tvg-name="Ibiza Summer Mix 2023" group-title="EXPERIMENTAL",TEST",$ 8 MENSUALES 3 DISPOSITIVOS
-https://www.youtube.com/watch?v=LICxmsmxMv4
-#EXTINF:-1 group-title="EXPERIMENTAL",TEST",WHATSAPP 
-https://www.youtube.com/watch?v=uRONDX6mF5A
-#EXTINF:-1 group-title="EXPERIMENTAL",TEST",0 9 9 0 4 8 8 0 0 8
-https://www.youtube.com/watch?v=uRONDX6mF5A
 
 
 <!-- MTV -->
