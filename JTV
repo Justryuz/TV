@@ -3,6 +3,19 @@
 <noscript>
 <!---- HERE ---->
 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/zokerpunk/epg/main/nasional.xml"
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/zokerpunk/epg/main/nasional.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/zokerpunk/epg/main/asalklik.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/zokerpunk/epg/main/nagaratetangga.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/zokerpunk/epg/main/astrologi.xml"
+#EXTM3U x-url-tvg="https://github.com/zokerpunk/epg"
+#EXTM3U url-tvg="https://github.com/zokerpunk/epg"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz
 #EXTM3U x-tvg-url="https://bit.ly/pondan-epg, #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://i.mjh.nz/PlutoTV/all.xml.gz",refresh="3600"  refresh="1440" billed-msg="V2.6.2 - 20/03/2024 ~ By JustryuzTV | Benda percuma, guna berhemah. keep calm ~ Admin"  vod_library="https://fahmikacak.pages.dev/HBOGO%20Asia, https://shz.al/KSzH"
 
 
