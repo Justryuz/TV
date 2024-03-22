@@ -59,9 +59,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3f726fd5cbbf5944437a4dbfab431b10&key=376b009796e4ad50ea8f68d796676692
 #http://startv365.com//live/D85A79B4/55A7743D/79321.m3u8
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
 #https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 #http://metatvpro.com:25461/live/LT186743/8181/13.ts
-https://sini.la/vjpjd
+#https://sini.la/vjpjd
 
 
 =============prima ================
@@ -1448,7 +1449,8 @@ https://linear05-playback.sooka.my/CH5/masterCH5.mpd
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="Sooka Live" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NK3OJ.png",Astro Ria HD CH104
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3f726fd5cbbf5944437a4dbfab431b10&key=376b009796e4ad50ea8f68d796676692
-http://startv365.com//live/D85A79B4/55A7743D/79321.m3u8
+#http://startv365.com//live/D85A79B4/55A7743D/79321.m3u8
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
 #https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 #http://185.225.191.46:25461/live/LT186743/8181/13.ts?token=SRFdBBdcFwpGVFVSAQEBVgRaUVAPCQFSXAJWA11VBQRXAgVdAQxQCVJHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCQAKA1UABgpJFBNZVhEPR10NBRJIRwQZQVMQWlZUbAJdRlBUABIOXBBaDxwQXFs6AFFYUQoBQ1sXBkAYFVFAFhoKV0IJXBgQB18XQlNHUEdeFgQDVVBDTRdVDUFZTEEfGgobejwSGBAAThdVXEBcCgoWDxIQFkNNF18Ra0VdQBJKVVhaAEIWCEcGQRwQXlQdO1daXgoAAhVcWQxHFQIRVBocG1oKXl1GCkQ8QFtXF19GBgQFVVFDHA==
 
@@ -2467,7 +2469,8 @@ https://linear07-playback.sooka.my/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-http://startv365.com//live/D85A79B4/55A7743D/79321.m3u8
+#http://startv365.com//live/D85A79B4/55A7743D/79321.m3u8
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="EXPERIMENTAL",TEST" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2780,13 +2783,15 @@ http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"37fb99ca61a94c889fdc758bb2a67495": "f723fd2686d9ce8f76a83fac34dff9e4"}
 #EXTINF:-1 tvg-id="" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" ch-number="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA sooka
-https://linear07-playback.sooka.my/CH4/masterCH4.mpd
+#https://linear07-playback.sooka.my/CH4/masterCH4.mpd
+https://sini.la/vjpjd
 
 #EXTINF:-1 tvg-id="" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png",LIVE BIG STAGE DAN LAIN2
 #EXTHTTP:{"authorization":Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwNDIwNzQyMCwiaWF0IjoxNzAzNjAzNDIwfQ.4bOrnyY4PyEs2kVUSOy0gsT78imUeBa15xB3qcJPVWE"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=37fb99ca61a94c889fdc758bb2a67495:f723fd2686d9ce8f76a83fac34dff9e4
-https://linear07-playback.sooka.my/CH4/masterCH4.mpd
+#https://linear07-playback.sooka.my/CH4/masterCH4.mpd
+https://sini.la/vjpjd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
