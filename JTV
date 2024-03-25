@@ -141,7 +141,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/608/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroAura" tvg-name="ASTRO AURA HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NqK6N.png",Astro Aura HD CH113
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/609/default.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/609/default.mpd
+https://464672d5a59d4c4298eb0a9e7ce0e3d9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH7-dash/default_ott.mpd?astro=true&ads.hhid=4c59e919b6e688a0e7a54c9caff083f2&aws.sessionId=e3c369a2-2358-47f3-8eb5-cb0d102a0c71
 #http://185.225.191.46:25461/live/LT186743/8181/13555.ts?token=SRFdBBdcFwpGVFVSAQEBVgRaUVAPCQFSXAJWA11VBQRXAgVdAQxQCVJHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCQAKA1UABgpJFBNZVhEPR10NBRJIRwQZQVMQWlZUbAJdRlBUABIOXBBaDxwQXFs6AFFYUQoBQ1sXBkAYFVFAFhoKV0IJXBgQB18XQlNHUEdeFgQDVVBDTRdVDUFZTEEfGgobejwSGBAAThdVXEBcCgoWDxIQFkNNF18Ra0VdQBJKVVhaAEIWCEcGQRwQXlQdO1daXgoAAhVcWQxHFQIRVBocG1oKXl1GCkQ8QFtXF19GBgQFVVFDHA==
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -493,7 +494,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="ShowcaseMovies" tvg-name="Showcase Movies" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1ObOBe.png",Showcase Movies CH413
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default.mpd
+https://23af8c67817a48d693b1bbec14ee95a0.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH20-dash/default_ott.mpd?astro=true&aws.sessionId=23fb1e32-3493-403b-95f0-43bb4d74221f
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
