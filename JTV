@@ -59,11 +59,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3f726fd5cbbf5944437a4dbfab431b10&key=376b009796e4ad50ea8f68d796676692
 #http://startv365.com//live/D85A79B4/55A7743D/79321.m3u8
-http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
+#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
 #https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 #http://metatvpro.com:25461/live/LT186743/8181/13.ts
 #https://sini.la/vjpjd
-#https://linears-playback.astro.com.my/vsg/41lBuT6FEwXD_nQ60n9Vx4D6mBO5koo3NEc1c-OSFT8Gk=SdR3/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41lBuT6FEwXD_nQ60n9Vx4D7RmINNqtE8KsAHCBP_7vA8=TB4v/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 
 =============prima ================
@@ -74,6 +74,7 @@ http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
 #EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nft6B.png",Astro Prima HD CH105
 #KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310": "8412f444ffbe350cf2ece051f9152e90"}
 https://linears-playback.astro.com.my/vsg/41LfSXPqMpKUTq_TT0-eOkBJlSrW5aZvbuP-yttYJPYIE=7oQZ/dash-wv/jitp-linearwm/1000/default_primary.mpd
+https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41nwJaCgtNqzuF_vdq9G7pz4Vy-SPf52jACjIuIC-Oh1k=erKD/dash-wv/jitp-dashisowm/1000/default_ott.mpd?ads.hhid=4c59e919b6e688a0e7a54c9caff083f2&aws.sessionId=3d670bae-e1da-482b-9124-42c80d1b6607
 #http://185.225.191.46:25461/live/LT186743/8181/14.ts?token=SRFdBBdcFwpGVFVSAQEBVgRaUVAPCQFSXAJWA11VBQRXAgVdAQxQCVJHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCQAKA1UABgpJFBNZVhEPR10NBRJIRwQZQVMQWlZUbAJdRlBUABIOXBBaDxwQXFs6AFFYUQoBQ1sXBkAYFVFAFhoKV0IJXBgQB18XQlNHUEdeFgQDVVBDTRdVDUFZTEEfGgobejwSGBAAThdVXEBcCgoWDxIQFkNNF18Ra0VdQBJKVVhaAEIWCEcGQRwQXlQdO1daXgoAAhVcWQxHFQIRVBocG1oKXl1GCkQ8QFtXF19GBgQFVVFDHA==
 #http://startv365.com:80/live/0664251418/9924187372/400438338.m3u8
 
@@ -83,6 +84,7 @@ https://linears-playback.astro.com.my/vsg/41LfSXPqMpKUTq_TT0-eOkBJlSrW5aZvbuP-yt
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nfma1.png",Astro Oasis HD CH106
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
+
 
 ============warna =====================
 
@@ -94,15 +96,17 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/783c53bf-d652-42fa-b218-d47c4e5f1836
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
-https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41BkgTICUam6HwBbIYx3GUCQvijns8VKgfBYhPs2fWGOc=fM5H/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=783c53bf-d652-42fa-b218-d47c4e5f1836
+#https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41BkgTICUam6HwBbIYx3GUCQvijns8VKgfBYhPs2fWGOc=fM5H/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=783c53bf-d652-42fa-b218-d47c4e5f1836
 #https://sini.la/vjpjd
+https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41BkgTICUam6HwBbIYx3GUCa3q0LHz6mavdo8JNiZPgug=gM74/dash-wv/jitp-dashisowm/2402/default_ott.mpd?ads.hhid=4c59e919b6e688a0e7a54c9caff083f2&aws.sessionId=acd2cdac-385d-461e-89e8-ea7af45bf789
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",107 Astro Warna SOOKA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/783c53bf-d652-42fa-b218-d47c4e5f1836
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
 #https://sini.la/vjpjd
-https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41BkgTICUam6HwBbIYx3GUCQvijns8VKgfBYhPs2fWGOc=fM5H/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=783c53bf-d652-42fa-b218-d47c4e5f1836
+https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41BkgTICUam6HwBbIYx3GUCa3q0LHz6mavdo8JNiZPgug=gM74/dash-wv/jitp-dashisowm/2402/default_ott.mpd?ads.hhid=4c59e919b6e688a0e7a54c9caff083f2&aws.sessionId=acd2cdac-385d-461e-89e8-ea7af45bf789
+#https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41BkgTICUam6HwBbIYx3GUCQvijns8VKgfBYhPs2fWGOc=fM5H/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=783c53bf-d652-42fa-b218-d47c4e5f1836
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -113,7 +117,8 @@ https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.co
 #https://linears-playback.astro.com.my/vsg/418TgjfrpY42fhWiEen_p7k0pSo1EqfVNdDs7NelebwuM=NqVC/dash-wv/jitp-linearwm/2700/default_primary.mpd
 #http://185.225.191.46:25461/live/LT186743/8181/17.ts?token=SRFdBBdcFwpGVFVSAQEBVgRaUVAPCQFSXAJWA11VBQRXAgVdAQxQCVJHTUNGQhBRVlVsD1wSAwZWHBZHFlMRb1tXF19GBgwHXEdNQ0FfD1EVAgJRCQAKA1UABgpJFBNZVhEPR10NBRJIRwQZQVMQWlZUbAJdRlBUABIOXBBaDxwQXFs6AFFYUQoBQ1sXBkAYFVFAFhoKV0IJXBgQB18XQlNHUEdeFgQDVVBDTRdVDUFZTEEfGgobejwSGBAAThdVXEBcCgoWDxIQFkNNF18Ra0VdQBJKVVhaAEIWCEcGQRwQXlQdO1daXgoAAhVcWQxHFQIRVBocG1oKXl1GCkQ8QFtXF19GBgQFVVFDHA==
 #https://github.com/Arrasyid22/Playlist-IPTV/raw/main/astrocitra.m3u8
-http://startv365.com:80/live/0664251418/9924187372/400200335.m3u8
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/416SxC7TczLdoc692N4HwTREPc9CkSVmNlAE-Dk1DS584=DpgG/dash-wv/jitp-dashisowm/2700/default_ott.mpd?ads.hhid=4c59e919b6e688a0e7a54c9caff083f2&aws.sessionId=aa27bf15-d445-4d87-b830-6ed9a23b08fc
+#http://startv365.com:80/live/0664251418/9924187372/400200335.m3u8
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
