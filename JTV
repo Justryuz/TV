@@ -100,7 +100,8 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/be6fbdde-8931-4b2e-bb5f-66e39e3e51f6
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
-https://sini.la/vjpjd
+#https://sini.la/vjpjd
+https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/41BkgTICUam6HwBbIYx3GUCQvijns8VKgfBYhPs2fWGOc=fM5H/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=783c53bf-d652-42fa-b218-d47c4e5f1836
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
