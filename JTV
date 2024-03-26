@@ -28,6 +28,14 @@
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
+#EXTINF:-1 tvg-id=RTB_SUKMAINDERA" tvg-name="RTB_SUKMAINDERA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTB_Sukmaindera.png/revision/latest?cb=20190121072745", group-title="EXPERIMENTAL",TEST",RTB Sukmaindera 
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8 
+#EXTINF:-1 tvg-id=RTB_GOLIVE" tvg-name="RTB_GOLIVE" tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png", group-title="EXPERIMENTAL",TEST",RTB GO LIVE 
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8 
+#EXTINF:-1 tvg-id=RTB_ANEKA" tvg-name="RTB_ANEKA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png/revision/latest?cb=20190121072917", group-title="EXPERIMENTAL",TEST",RTB Aneka 
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
