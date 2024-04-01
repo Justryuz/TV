@@ -16,7 +16,7 @@
 #EXTM3U x-url-tvg="https://github.com/zokerpunk/epg"
 #EXTM3U url-tvg="https://github.com/zokerpunk/epg"
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz
-#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://i.mjh.nz/PlutoTV/all.xml.gz",refresh="3600"  refresh="1440" billed-msg="V2.7 - 1/04/2024 ~ By JustryuzTV | Update VOD & lIVE TV ~ Selamat Berpuasa"  vod_library="https://fahmikacak.pages.dev/HBOGO%20Asia, https://shz.al/KSzH"
+#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://i.mjh.nz/PlutoTV/all.xml.gz",refresh="3600"  refresh="1440" billed-msg="V2.7 - 1/04/2024 ~ By JustryuzTV | Update VOD Movie 2024 ~ Special"  vod_library="https://fahmikacak.pages.dev/HBOGO%20Asia, https://shz.al/KSzH"
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
