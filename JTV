@@ -8264,6 +8264,9 @@ https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rakuten.VIKI.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/38a298ea-4739-4ae9-b656-7f5881195c06-width190-quality100.png" group-logo="https://iili.io/JWgWATF.jpg"  group-title="Rakuten",Rakuten Viki ᴴᴰ  
 https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u
 
+
+
+
 ==================== END RAKUTEN ========================
 
 
@@ -8271,7 +8274,10 @@ https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml"
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KMxTZ99mbES+Q4LmSvZNVw", "kid":"YHt9IlZcS8O5X/bDPOZUJQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Channel 5 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-logo="https://iili.io/JWgMYwg.jpg" group-title="meWATCH",Test Astro 
+https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/1006/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KMxTZ99mbES+Q4LmSvZNVw", "kid":"YHt9IlZcS8O5X/bDPOZUJQ" } ], "type":"temporary" }
