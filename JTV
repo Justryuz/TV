@@ -5733,7 +5733,8 @@ http://mmu033.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705?token=TBRRBxJfEA9B
 #KODIPROP:inputstream.adaptive.license_key={"37fb99ca61a94c889fdc758bb2a67495": "f723fd2686d9ce8f76a83fac34dff9e4"}
 #EXTINF:-1 tvg-id="" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MalaysiaTV +" ch-number="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA sooka
 #https://linear07-playback.sooka.my/CH4/masterCH4.mpd
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
+http://mmu033.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705?token=TBRRBxJfEA9BXAEJVVJRUA1RAAQABglVVV0BAlJWAFYGAVhTVQ9UUAAaHBtCRUIEWV5tC1QTC1MGVQ0YFkVEBEVpUAJDDRAHUg8JDgMTHENMWl8HEgsAVQBWCQEFBAZRGxRJDwUVCBdRDgAJABMcQ11LRgdCX1AObgFdQl1TUkMNWEwKDRsQWg1nVFxcUF4FGgkQUxIdEwtCFRoOWkVbDRsUWw8VRVNBBhoKV0RdXE0aUF0XXkVDGxNfGnltEhtDUk5NAw9EW1oNGgobRUISTRpaQT1CVEIWQwBZWVFCFVsVBhtKQ1pTTTxbX1dfVFMVUVxcERILE1ETSRpZW15eFVhEZhYIUxAPQQoFAAgGEhw=
+#http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
 #https://sini.la/vjpjd
 
 #EXTINF:-1 tvg-id="" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MalaysiaTV +" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png",LIVE BIG STAGE DAN LAIN2
@@ -7083,7 +7084,9 @@ http://metatvpro.com:25461/live/F2590/4729/12.ts
 Astro Ria HD,
 #http://metatvpro.com:25461/live/F2590/4729/13.ts
 #http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
-http://startv365.com/live/0664251418/9924187372/79321.m3u8
+#http://startv365.com/live/0664251418/9924187372/79321.m3u8
+http://mmu033.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705?token=TBRRBxJfEA9BXAEJVVJRUA1RAAQABglVVV0BAlJWAFYGAVhTVQ9UUAAaHBtCRUIEWV5tC1QTC1MGVQ0YFkVEBEVpUAJDDRAHUg8JDgMTHENMWl8HEgsAVQBWCQEFBAZRGxRJDwUVCBdRDgAJABMcQ11LRgdCX1AObgFdQl1TUkMNWEwKDRsQWg1nVFxcUF4FGgkQUxIdEwtCFRoOWkVbDRsUWw8VRVNBBhoKV0RdXE0aUF0XXkVDGxNfGnltEhtDUk5NAw9EW1oNGgobRUISTRpaQT1CVEIWQwBZWVFCFVsVBhtKQ1pTTTxbX1dfVFMVUVxcERILE1ETSRpZW15eFVhEZhYIUxAPQQoFAAgGEhw=
+
 Astro Prima HD,
 #http://metatvpro.com:25461/live/F2590/4729/14.ts
 #http://50.7.234.10:8278/Citra/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
@@ -10651,7 +10654,8 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="AstroGO", Ria HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com/live/0664251418/9924187372/79321.m3u8
+#http://startv365.com/live/0664251418/9924187372/79321.m3u8
+http://mmu033.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705?token=TBRRBxJfEA9BXAEJVVJRUA1RAAQABglVVV0BAlJWAFYGAVhTVQ9UUAAaHBtCRUIEWV5tC1QTC1MGVQ0YFkVEBEVpUAJDDRAHUg8JDgMTHENMWl8HEgsAVQBWCQEFBAZRGxRJDwUVCBdRDgAJABMcQ11LRgdCX1AObgFdQl1TUkMNWEwKDRsQWg1nVFxcUF4FGgkQUxIdEwtCFRoOWkVbDRsUWw8VRVNBBhoKV0RdXE0aUF0XXkVDGxNfGnltEhtDUk5NAw9EW1oNGgobRUISTRpaQT1CVEIWQwBZWVFCFVsVBhtKQ1pTTTxbX1dfVFMVUVxcERILE1ETSRpZW15eFVhEZhYIUxAPQQoFAAgGEhw=
 #http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="AstroGO",Warna HD
