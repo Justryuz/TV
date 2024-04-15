@@ -645,7 +645,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3f726fd5cbbf5944437a4dbfab431b10&key=376b009796e4ad50ea8f68d796676692
 #http://startv365.com//live/D85A79B4/55A7743D/79321.m3u8
 #http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
-http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=306310_&extension=m3u8
+#http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=306310_&extension=m3u8
+http://mmu033.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705?token=TBRRBxJfEA9BXAEJVVJRUA1RAAQABglVVV0BAlJWAFYGAVhTVQ9UUAAaHBtCRUIEWV5tC1QTC1MGVQ0YFkVEBEVpUAJDDRAHUg8JDgMTHENMWl8HEgsAVQBWCQEFBAZRGxRJDwUVCBdRDgAJABMcQ11LRgdCX1AObgFdQl1TUkMNWEwKDRsQWg1nVFxcUF4FGgkQUxIdEwtCFRoOWkVbDRsUWw8VRVNBBhoKV0RdXE0aUF0XXkVDGxNfGnltEhtDUk5NAw9EW1oNGgobRUISTRpaQT1CVEIWQwBZWVFCFVsVBhtKQ1pTTTxbX1dfVFMVUVxcERILE1ETSRpZW15eFVhEZhYIUxAPQQoFAAgGEhw=
 #http://metatvpro.com:25461/live/LT186743/8181/13.ts
 #http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
 #http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
@@ -4383,7 +4384,8 @@ https://linear05-playback.sooka.my/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3f726fd5cbbf5944437a4dbfab431b10&key=376b009796e4ad50ea8f68d796676692
 #http://startv365.com//live/D85A79B4/55A7743D/79321.m3u8
 #http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
-http://startv365.com/live/0664251418/9924187372/79321.m3u8
+http://mmu033.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705?token=TBRRBxJfEA9BXAEJVVJRUA1RAAQABglVVV0BAlJWAFYGAVhTVQ9UUAAaHBtCRUIEWV5tC1QTC1MGVQ0YFkVEBEVpUAJDDRAHUg8JDgMTHENMWl8HEgsAVQBWCQEFBAZRGxRJDwUVCBdRDgAJABMcQ11LRgdCX1AObgFdQl1TUkMNWEwKDRsQWg1nVFxcUF4FGgkQUxIdEwtCFRoOWkVbDRsUWw8VRVNBBhoKV0RdXE0aUF0XXkVDGxNfGnltEhtDUk5NAw9EW1oNGgobRUISTRpaQT1CVEIWQwBZWVFCFVsVBhtKQ1pTTTxbX1dfVFMVUVxcERILE1ETSRpZW15eFVhEZhYIUxAPQQoFAAgGEhw=
+#http://startv365.com/live/0664251418/9924187372/79321.m3u8
 #http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5402,7 +5404,8 @@ https://linear07-playback.sooka.my/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #http://startv365.com//live/D85A79B4/55A7743D/79321.m3u8
-http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
+#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
+http://mmu033.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705?token=TBRRBxJfEA9BXAEJVVJRUA1RAAQABglVVV0BAlJWAFYGAVhTVQ9UUAAaHBtCRUIEWV5tC1QTC1MGVQ0YFkVEBEVpUAJDDRAHUg8JDgMTHENMWl8HEgsAVQBWCQEFBAZRGxRJDwUVCBdRDgAJABMcQ11LRgdCX1AObgFdQl1TUkMNWEwKDRsQWg1nVFxcUF4FGgkQUxIdEwtCFRoOWkVbDRsUWw8VRVNBBhoKV0RdXE0aUF0XXkVDGxNfGnltEhtDUk5NAw9EW1oNGgobRUISTRpaQT1CVEIWQwBZWVFCFVsVBhtKQ1pTTTxbX1dfVFMVUVxcERILE1ETSRpZW15eFVhEZhYIUxAPQQoFAAgGEhw=
 #http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="EXPERIMENTAL",TEST" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
@@ -5718,7 +5721,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MalaysiaTV +" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",RIA HD
 #http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
-http://startv365.com/live/0664251418/9924187372/79321.m3u8
+http://mmu033.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705?token=TBRRBxJfEA9BXAEJVVJRUA1RAAQABglVVV0BAlJWAFYGAVhTVQ9UUAAaHBtCRUIEWV5tC1QTC1MGVQ0YFkVEBEVpUAJDDRAHUg8JDgMTHENMWl8HEgsAVQBWCQEFBAZRGxRJDwUVCBdRDgAJABMcQ11LRgdCX1AObgFdQl1TUkMNWEwKDRsQWg1nVFxcUF4FGgkQUxIdEwtCFRoOWkVbDRsUWw8VRVNBBhoKV0RdXE0aUF0XXkVDGxNfGnltEhtDUk5NAw9EW1oNGgobRUISTRpaQT1CVEIWQwBZWVFCFVsVBhtKQ1pTTTxbX1dfVFMVUVxcERILE1ETSRpZW15eFVhEZhYIUxAPQQoFAAgGEhw=
+#http://startv365.com/live/0664251418/9924187372/79321.m3u8
 #http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/79321
 
