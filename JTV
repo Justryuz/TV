@@ -5754,7 +5754,8 @@ http://startv365.com/live/0664251418/9924187372/191874.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69796371dc4e457d98fa2b025eabfc94:6e171dc36e2356c24e4e59b19bc98fc5
 #EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MalaysiaTV +",WARNA HD (sooka)
 #https://linear05-playback.sooka.my/CH1/masterCH1.mpd
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1706
+http://mmu031.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1706?token=TBRRBxJfEA9BCVEJAgQJUgpRVAdWAAIACVAAAQIIDwMGVwxTAwADUAEaHBtCRUIEWV5tC1QTC1MGVQ4YFkVEBEVpUAJDDRAHUwABDwMTHENMWl8HEgsAVQBWCQEAAgFXGxRJDwUVCBdSDQkKBxMcQ11LRgdCX1AObgFdQl1TUkMNWEwKDRsQWg1nVFxcUF4FGgkQUxIdEwtCFRoOWkVbDRsUWw8VRVNBBhoKGwADBFkaHxABX0RfFkMcGg4WfW5DGxRcHhVSXEYKV14bCxNEEhofEAtDbkMHQhFKUVVdUhMVDBtWQxsQWAJAb1peX14EW0dbDV5CE1gTVhoYFl1YD15CVhQ+R1tRQQISCAQIAlcaTg==?token=TBRRBxJfEA9BCVEJAgQJUgpRVAdWAAIACVAAAQIIDwMGVwxTAwADUAEaHBtCRUIEWV5tC1QTC1MGVQ4YFkVEBEVpUAJDDRAHUwABDwMTHENMWl8HEgsAVQBWCQEAAgFXGxRJDwUVCBdSDQkKBxMcQ11LRgdCX1AObgFdQl1TUkMNWEwKDRsQWg1nVFxcUF4FGgkQUxIdEwtCFRoOWkVbDRsUWw8VRVNBBhoKGwADBFkaHxABX0RfFkMcGg4WfW5DGxRcHhVSXEYKV14bCxNEEhofEAtDbkMHQhFKUVVdUhMVDBtWQxsQWAJAb1peX14EW0dbDV5CE1gTVhoYFl1YD15CVhQ+R1tRQQISCAQIAlcaTg==
+
 
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MalaysiaTV +",ASTRO CITRA HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -7097,6 +7098,7 @@ http://metatvpro.com:25461/live/F2590/4729/15.ts
 Astro Warna HD,
 #http://metatvpro.com:25461/live/F2590/4729/16.ts
 http://startv365.com/live/0664251418/9924187372/191874.m3u8
+http://mmu031.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1706?token=TBRRBxJfEA9BCVEJAgQJUgpRVAdWAAIACVAAAQIIDwMGVwxTAwADUAEaHBtCRUIEWV5tC1QTC1MGVQ4YFkVEBEVpUAJDDRAHUwABDwMTHENMWl8HEgsAVQBWCQEAAgFXGxRJDwUVCBdSDQkKBxMcQ11LRgdCX1AObgFdQl1TUkMNWEwKDRsQWg1nVFxcUF4FGgkQUxIdEwtCFRoOWkVbDRsUWw8VRVNBBhoKGwADBFkaHxABX0RfFkMcGg4WfW5DGxRcHhVSXEYKV14bCxNEEhofEAtDbkMHQhFKUVVdUhMVDBtWQxsQWAJAb1peX14EW0dbDV5CE1gTVhoYFl1YD15CVhQ+R1tRQQISCAQIAlcaTg==
 Astro Citra,
 #http://metatvpro.com:25461/live/F2590/4729/17.ts
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -8206,7 +8208,8 @@ http://startv365.com/live/0664251418/9924187372/191874.m3u8
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
 #http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1706
 #EXTINF:-1 tvg-id="" tvg-name="MY030:RIA" tvg-logo="" group-title="🇲🇾 MalaysiaTV +",MY030:RIA
-http://muka03.wanicelife.com:8880/D12m2370/88152514/1705
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/1705
+http://startv365.com/live/0664251418/9924187372/79321.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY031:AWANI" tvg-logo="" group-title="🇲🇾 MalaysiaTV +",MY031:AWANI
 http://muka03.wanicelife.com:8880/D12m2370/88152514/1704
 #EXTINF:-1 tvg-id="" tvg-name="MY034:OASIS" tvg-logo="" group-title="🇲🇾 MalaysiaTV +",MY034:OASIS
@@ -10649,7 +10652,8 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="AstroGO", Ria HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
+http://startv365.com/live/0664251418/9924187372/79321.m3u8
+#http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="AstroGO",Warna HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
