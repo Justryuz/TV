@@ -8665,7 +8665,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="106.astro" group-title="Astro" ch-number="106" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://aqfadtv.xyz/logos/AstroOasis.png",106 Astro Oasis
+#EXTINF:-1 tvg-id="106.astro" group-title="AstroGO v1" ch-number="106" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://aqfadtv.xyz/logos/AstroOasis.png",106 Astro Oasis
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="myFreeview" group-logo="https://aqfadtv.xyz/images/myfreeview.png" tvg-logo="https://aqfadtv.xyz/logos/TVS_2024.png",122 TVS
