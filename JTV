@@ -22647,7 +22647,7 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/Stream(02)/index.m3
 https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
 
 
-#EXTM3U url-tvg="https://bosiptv.com/epg/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" billed-msg="PERSONAL USE,DO NOT SALE (UPDATE ON 13/2/24) " 
+#EXTM3U url-tvg="https://bosiptv.com/epg/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml " 
 
 
 
