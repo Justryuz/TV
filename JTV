@@ -42,11 +42,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
-https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+https://059c145abcc6463caba018f11a6488f6.mediatailor.ap-southeast-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/39f9df1b-56f9-4e1f-b2f1-184956b33a25/4.m3u8
 #EXTINF:-1 tvg-chno="114" tvg-id="MPBDramaSangat" tvg-name="MPBDramaSangat" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_DS.png",Media Prima DramaSangat
 #EXTGRP:MyTV
 #EXTVLCOPT:network-caching=1000
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+https://tonton-live-sg1.akamaized.net/live-hls/tonton5_720p/hdntl=exp=1715845998~acl=%2f*~data=hdntl~hmac=623b37a8d9244f221513b6d4fdf3beff121ba6a4ccdd1e68e9cd5d86ef3396b1/index.m3u8
 #EXTINF:-1 tvg-chno="117" tvg-id="DidikTVKPM" tvg-name="DidikTVKPM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_7.png",Media Prima NTV7
 #EXTGRP:MyTV
 #EXTVLCOPT:network-caching=1000
@@ -62,7 +62,7 @@ https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
+https://059c145abcc6463caba018f11a6488f6.mediatailor.ap-southeast-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/b25623c8-1ba9-47e2-8e40-1ade813c790c/5.m3u8
 #EXTINF:-1 tvg-chno="119" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_9.png",Media Prima TV9
 #EXTGRP:MyTV
 #EXTVLCOPT:network-caching=1000
@@ -70,7 +70,7 @@ https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live09.mpd
+https://059c145abcc6463caba018f11a6488f6.mediatailor.ap-southeast-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_cmaf-25fps-v1/fc97e9ab-718f-4a84-b801-27e8237666a6/5.m3u8
 
 #EXTINF:-1 tvg-chno="120" tvg-id="AwesomeTV.my" tvg-name="AwesomeTV.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/AwesomeTV.png",Awesome TV
 #EXTGRP:MyTV
@@ -88,7 +88,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default_primary.mp
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
+https://live.mana2.my/Bernama/tracks-v1a1/mono.m3u8?token=1715777712-8825147673f540da991e1aec5149a901-0-afede10d95bc461d6eaae8186efe79d1&auth_key=1715777712-8825147673f540da991e1aec5149a901-0-dc6648846dd10f4273b0496f8db52450
 #EXTINF:-1 tvg-chno="122" tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/TVAlhijrah.png",TV Alhijrah
 #EXTGRP:MyTV
 #EXTVLCOPT:network-caching=1000
