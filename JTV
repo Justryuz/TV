@@ -344,8 +344,6 @@ http://epg.112114.xyz/douyu/252802
 http://epg.112114.xyz/douyu/8770422
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzDouyu 7 24/7
 http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzDouyu 8 24/7
-http://epg.112114.xyz/douyu/52787
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzDouyu 9 24/7
 http://epg.112114.xyz/douyu/8814650
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzDouyu 10 24/7
@@ -367,8 +365,6 @@ http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzDouyu 18 24/7
 http://epg.112114.xyz/douyu/218859
 
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzBili 1 24/7
-https://epg.112114.xyz/bili/50937
 
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzHuya 1 24/7
 https://epg.112114.xyz/huya/11342412
