@@ -328,21 +328,64 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 
 #################### TEST ####################
 
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 24/7
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 1
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 1 24/7
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 2
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 2 24/7
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 3
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 3 24/7
 http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 4
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 4 24/7
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 5
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 5 24/7
 http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 6
-http://epg.112114.xyz/douyu/4505431
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 6 24/7
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 7 24/7
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 8 24/7
+http://epg.112114.xyz/douyu/52787
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 9 24/7
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 10 24/7
+http://epg.112114.xyz/douyu/263824
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 11 24/7
+http://epg.112114.xyz/douyu/323876
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 12 24/7
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 13 24/7
+http://epg.112114.xyz/douyu/2516864
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 14 24/7
+http://epg.112114.xyz/douyu/6566671
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 15 24/7
+http://epg.112114.xyz/douyu/413573
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 16 24/7
+http://epg.112114.xyz/douyu/1226741
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 17 24/7
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzMovie 18 24/7
+http://epg.112114.xyz/douyu/218859
 
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzBili 1 24/7
+https://epg.112114.xyz/bili/50937
+
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzHuya 1 24/7
+https://epg.112114.xyz/huya/11342412
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzHuya 2 24/7
+https://epg.112114.xyz/huya/11342421
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzHuya 3 24/7
+https://epg.112114.xyz/huya/11601968
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzHuya 4 24/7
+https://epg.112114.xyz/huya/11352875
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzHuya 5 24/7
+https://epg.112114.xyz/huya/25129062
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzHuya 6 24/7
+https://epg.112114.xyz/huya/11352937
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzHuya 7 24/7
+https://epg.112114.xyz/huya/11352973
+#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzHuya 8 24/7
+https://epg.112114.xyz/huya/11279247
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
 
