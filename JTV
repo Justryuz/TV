@@ -367,8 +367,7 @@ http://epg.112114.xyz/douyu/218859
 https://epg.112114.xyz/huya/11601968
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzHuya 4 24/7
 https://epg.112114.xyz/huya/11352875
-#EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzHuya 5 24/7
-https://epg.112114.xyz/huya/25129062
+
 
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
