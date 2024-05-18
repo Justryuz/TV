@@ -247,47 +247,47 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
 #################### SEA's FTA Channels ####################
 
 #EXTINF:-1 tvg-chno="1001" tvg-id="RTBAneka.bn" tvg-name="RTBAneka" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RTB_Aneka.png",RTB Aneka 🇧🇳
-#EXTGRP:[*] PLUS: SEA's FTA Channels
+#EXTGRP:Basic TV
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1002" tvg-id="RTBSukmaindera.bn" tvg-name="RTBSukmaindera" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RTB_Sukmaindera.png",RTB Sukmaindera 🇧🇳
-#EXTGRP:[*] PLUS: SEA's FTA Channels
+#EXTGRP:Basic TV
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1101" tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM1.png",RTM TV1 🇲🇾
-#EXTGRP:[*] PLUS: SEA's FTA Channels
+#EXTGRP:Basic TV
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1102" tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main//channel-logos/RTM2.png",RTM TV2 🇲🇾
-#EXTGRP:[*] PLUS: SEA's FTA Channels
+#EXTGRP:Basic TV
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1103" tvg-id="Okey.my" tvg-name="Okey" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM_Okey.png",RTM Okey 🇲🇾
-#EXTGRP:[*] PLUS: SEA's FTA Channels
+#EXTGRP:Basic TV
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1104" tvg-id="Sukan RTM.my" tvg-name="Sukan RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/Sukan_RTM.png",Sukan RTM 🇲🇾
-#EXTGRP:[*] PLUS: SEA's FTA Channels
+#EXTGRP:Basic TV
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1105" tvg-id="Berita RTM.my" tvg-name="Berita RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/Berita_RTM.png",Berita RTM 🇲🇾
-#EXTGRP:[*] PLUS: SEA's FTA Channels
+#EXTGRP:Basic TV
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1106" tvg-id="TV6.my" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM6.png",RTM TV6 🇲🇾
-#EXTGRP:[*] PLUS: SEA's FTA Channels
+#EXTGRP:Basic TV
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1201" tvg-id="Ch 5.sg" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Mediacorp_Channel_5.png",Mediacorp Channel 5 🇸🇬
-#EXTGRP:[*] PLUS: SEA's FTA Channels
+#EXTGRP:Basic TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -295,7 +295,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1202" tvg-id="Ch 8.sg" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Mediacorp_Channel_8.png",Mediacorp Channel 8 🇸🇬
-#EXTGRP:[*] PLUS: SEA's FTA Channels
+#EXTGRP:Basic TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -303,7 +303,7 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1203" tvg-id="Ch U.sg" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Mediacorp_Channel_U.png",Mediacorp Channel U 🇸🇬
-#EXTGRP:[*] PLUS: SEA's FTA Channels
+#EXTGRP:Basic TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -311,7 +311,7 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1204" tvg-id="Suria.sg" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Mediacorp_Suria.png",Mediacorp Suria 🇸🇬
-#EXTGRP:[*] PLUS: SEA's FTA Channels
+#EXTGRP:Basic TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -319,7 +319,7 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1205" tvg-id="Vasantham.sg" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/Mediacorp_Vasantham.png",Mediacorp Vasantham 🇸🇬
-#EXTGRP:[*] PLUS: SEA's FTA Channels
+#EXTGRP:Basic TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2992,96 +2992,69 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40495.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western Movie
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40507.ts
 
-#EXTM3U x-tvg-url=https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml refresh="1440" max-conn="1" refresh="24"
-
-#EXTINF:-1 tvg-id="101.astro" group-title="myFreeview" ch-number="101" group-logo="https://aqfadtv.xyz/images/myfreeview.png" tvg-logo="https://aqfadtv.xyz/logos/TV1.png",101 TV1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F/ut5qlPUnGmp8VjdL9tjg", "kid":"UmLL6+rWT0KqgxfjyxMQbA" } ], "type":"temporary" }
-https://linear08-playback.sooka.my/CH3/masterCH3.mpd
-
-#EXTINF:-1 tvg-id="101.astro" group-title="myFreeview" ch-number="101" group-logo="https://aqfadtv.xyz/images/myfreeview.png" tvg-logo="https://aqfadtv.xyz/logos/TV1.png",101 TV1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
-
-#EXTINF:-1 tvg-id="102.astro" group-title="myFreeview" ch-number="102" group-logo="https://aqfadtv.xyz/images/myfreeview.png" tvg-logo="https://aqfadtv.xyz/logos/TV2.png",102 TV2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6GP3FJ5S91Jr90QDTifOjQ", "kid":"977qwgCvQNWIbf6Y1y/PyA" } ], "type":"temporary" }
-https://linear08-playback.sooka.my/CH1/masterCH1.mpd
-
-#EXTINF:-1 tvg-id="102.astro" group-title="myFreeview" ch-number="102" group-logo="https://aqfadtv.xyz/images/myfreeview.png" tvg-logo="https://aqfadtv.xyz/logos/TV2.png",102 TV2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="106.astro" group-title="Astro" ch-number="106" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://aqfadtv.xyz/logos/AstroOasis.png",106 Astro Oasis
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="myFreeview" group-logo="https://aqfadtv.xyz/images/myfreeview.png" tvg-logo="https://aqfadtv.xyz/logos/TVS_2024.png",122 TVS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
-
-#EXTINF:-1 tvg-id="130.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="130" tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png",130 Jom Ngaji (Sooka)
+#EXTINF:-1 tvg-id="130.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="130" tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png",130 Jom Ngaji (Sooka)
 https://linearfast06.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="130.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="130" tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png",130 Jom Ngaji (NJOI)
+#EXTINF:-1 tvg-id="130.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="130" tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png",130 Jom Ngaji (NJOI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd 
 
-#EXTINF:-1 tvg-id="131.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="131" tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png",131 Filem Mantap (Sooka)
+#EXTINF:-1 tvg-id="131.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="131" tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png",131 Filem Mantap (Sooka)
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="131.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="131" tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png",131 Filem Mantap (NJOI)
+#EXTINF:-1 tvg-id="131.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="131" tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png",131 Filem Mantap (NJOI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 
-#EXTINF:-1 tvg-id="132.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="132" tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png",132 Drama Hebat (Sooka)
+#EXTINF:-1 tvg-id="132.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="132" tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png",132 Drama Hebat (Sooka)
 https://linearfast01.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="132.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="132" tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png",132 Drama Hebat (NJOI)
+#EXTINF:-1 tvg-id="132.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="132" tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png",132 Drama Hebat (NJOI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
-#EXTINF:-1 tvg-id="133.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="133" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png",133 Drama Hotpot (Sooka)
+#EXTINF:-1 tvg-id="133.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="133" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png",133 Drama Hotpot (Sooka)
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="133.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="133" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png",133 Drama Hotpot (NJOI)
+#EXTINF:-1 tvg-id="133.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="133" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png",133 Drama Hotpot (NJOI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 
-#EXTINF:-1 tvg-id="134.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="134" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png",134 Lawak Sentral (Sooka)
+#EXTINF:-1 tvg-id="134.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="134" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png",134 Lawak Sentral (Sooka)
 https://linearfast03.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="134.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="134" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png",134 Lawak Sentral (NJOI)
+#EXTINF:-1 tvg-id="134.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="134" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png",134 Lawak Sentral (NJOI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 
-#EXTINF:-1 tvg-id="135.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="135" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",135 Travel & Taste (Sooka)
+#EXTINF:-1 tvg-id="135.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="135" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",135 Travel & Taste (Sooka)
 https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="135.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="135" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",135 Travel & Taste (NJOI)
+#EXTINF:-1 tvg-id="135.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="135" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",135 Travel & Taste (NJOI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
-#EXTINF:-1 tvg-id="136.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",136 Oh My Ceria! (Sooka)
+#EXTINF:-1 tvg-id="136.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",136 Oh My Ceria! (Sooka)
 https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="136.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",136 Oh My Ceria! (NJOI)
+#EXTINF:-1 tvg-id="136.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",136 Oh My Ceria! (NJOI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3470,52 +3443,52 @@ https://linear03-playback.sooka.my/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
-#EXTINF:-1 tvg-id="131.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="131" tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png",Filem Mantap
+#EXTINF:-1 tvg-id="131.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="131" tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png",Filem Mantap
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="132.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="132" tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png",Drama Hebat
+#EXTINF:-1 tvg-id="132.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="132" tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png",Drama Hebat
 https://linearfast01.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="133.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="133" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png",Drama Hotpot
+#EXTINF:-1 tvg-id="133.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="133" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png",Drama Hotpot
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="134.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="134" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png",Lawak Sentral
+#EXTINF:-1 tvg-id="134.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="134" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png",Lawak Sentral
 https://linearfast03.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="135.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="135" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",Travel & Taste
+#EXTINF:-1 tvg-id="135.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="135" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",Travel & Taste
 https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="6.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/TayoPlus.jpg",Tayo+
+#EXTINF:-1 tvg-id="6.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/TayoPlus.jpg",Tayo+
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayoplus-dash-sooka/index.mpd
 
-#EXTINF:-1 tvg-id="12.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/Tastemade.png",Tastemade
+#EXTINF:-1 tvg-id="12.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/Tastemade.png",Tastemade
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-dash-sooka/index.mpd
 
-#EXTINF:-1 tvg-id="9.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/GustoTV.png",Gusto TV
+#EXTINF:-1 tvg-id="9.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/GustoTV.png",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-dash-sooka/index.mpd
 
-#EXTINF:-1 tvg-id="8.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/InfamousTV.png",Infamous TV
+#EXTINF:-1 tvg-id="8.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/InfamousTV.png",Infamous TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-dash-sooka/index.mpd
 
-#EXTINF:-1 tvg-id="1.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/K-Popcorn.png",K-Popcorn
+#EXTINF:-1 tvg-id="1.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/K-Popcorn.png",K-Popcorn
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01944-ktalpha-kpopcorn-dash-sooka/index.mpd
 
-#EXTINF:-1 tvg-id="7.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/EDGEsport.png",EDGEsport
+#EXTINF:-1 tvg-id="7.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/EDGEsport.png",EDGEsport
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00545-edgenetworks-edgesport-dash-sooka/index.mpd
 
-#EXTINF:-1 tvg-id="3.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/MTRSPT1.png",MTRSPT1
+#EXTINF:-1 tvg-id="3.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/MTRSPT1.png",MTRSPT1
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sooka-dash-sooka/index.mpd
 
-#EXTINF:-1 tvg-id="10.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/BollywoodPrime.jpg",Bollywood Prime
+#EXTINF:-1 tvg-id="10.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/BollywoodPrime.jpg",Bollywood Prime
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00877-b4unetworkeurop-bollywoodprime-dash-sooka/index.mpd
 
-#EXTINF:-1 tvg-id="11.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/YRFMusic.png",YRF Music
+#EXTINF:-1 tvg-id="11.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/YRFMusic.png",YRF Music
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00223-unisysinfo-yrf-music-dash-sooka/index.mpd
 
-#EXTINF:-1 tvg-id="" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/ESTV.png",ESTV
+#EXTINF:-1 tvg-id="" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/ESTV.png",ESTV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-dash-sooka/index.mpd
 
-#EXTINF:-1 group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/CarbonTV.png",Carbon TV
+#EXTINF:-1 group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/CarbonTV.png",Carbon TV
 http://208.87.242.183:8181/live/CarBonTV_CheerVsionTV_FAST.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
