@@ -362,14 +362,7 @@ http://epg.112114.xyz/douyu/20415
 http://epg.112114.xyz/douyu/218859
 
 
-
-
-
-
-
-
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
