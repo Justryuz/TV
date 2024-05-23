@@ -11500,20 +11500,13 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Gal
 #EXTINF:-1 type="series" group-title="ANIME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7ou12CuewLco2egs0Cly9Ybcpb.jpg", Boboiboy Galaxy S2 E06 
 https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/series/BoBoiBoy%20Galaxy/S2/BoBoiBoy_Galaxy_SORI_2023_S02_EP06ends_Finale_Malay.mp4
 
-#EXTVLCOPT:http-referrer=https://emturbovid.com/ 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/Referer=https://emturbovid.com/ 
-#EXTINF:-1 type="movie" group-title="Hantu Kak Limah" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2019/10/film-hantu-kak-limah-2018-lk21.jpg",Hantu Kak Limah (2018) 
-https://ss288.quenedi.com/stream/C/1F/yibTC6AOPhohEMCrpS9EWpiuFEbNNDfa79MKGfOI/master.m3u8
-
-#EXTVLCOPT:http-referrer=https://emturbovid.com/ 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://emturbovid.com/Referer=https://emturbovid.com/ 
-#EXTINF:-1 type="movie" group-title="Hantu Kak Limah" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2018/01/film-hantu-kak-limah-2-husin-mon-dan-jin-pakai-toncit-2013.jpg",Husin, Mon & Jin Pakai Toncit (Hantu kak limah 2: Husin, Mon dan Jin Pakai Toncit) (2013) 
-https://ss01.fantayuba.com/stream/B/42/B9eBlnWi9PHXOpftu7oSEocwkNc02VmIOFZ/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=74fb8c71b796d01e04355267a174b910:ecf96eae99421f1c836f454512183cf8
- #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my #EXTINF:-1 type="movie" group-title="Hantu Kak Limah" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhjMzU5MjktNjNkYS00NDQ5LTk5YjAtZWQ5ZWQ3ZjFmYmRlXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg",Hantu Kak Limah Balik Rumah https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/5d23d23c-c910-51a6-a1ae-a13d147ff7f2/default_primary.mpd
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my 
+#EXTINF:-1 type="movie" group-title="Hantu Kak Limah" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhjMzU5MjktNjNkYS00NDQ5LTk5YjAtZWQ5ZWQ3ZjFmYmRlXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg",Hantu Kak Limah Balik Rumah 
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/5d23d23c-c910-51a6-a1ae-a13d147ff7f2/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l+/T13+pAor5crRq3XpF0A","kid":"caDQeyunsF/11KIyV6uAAQ"}],"type":"temporary"} 
@@ -11523,7 +11516,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6431f1fed940521074c
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"00p/00X91bPSw9FooHrJiA","kid":"PGqxgex8Ply+ntOo/uglvg"}],"type":"temporary"} 
 #EXTINF:-1 type="movie" group-title="Teenage Mutant Ninja Turtles" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020118X0-portrait.jpg",Teenage Mutant Ninja Turtles S1 E02
- https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64375cdcd940521074ce4d58_hbovodhd/dash0/MYS_index.mpd
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64375cdcd940521074ce4d58_hbovodhd/dash0/MYS_index.mpd
 
 ****SamsungTV
 
