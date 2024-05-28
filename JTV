@@ -189,42 +189,42 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
 ################### Malaysia ##################
 
 #EXTINF:-1 tvg-chno="1001" tvg-id="RTBAneka.bn" tvg-name="RTBAneka" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RTB_Aneka.png",RTB Aneka 🇧🇳
-#EXTGRP:Basic TV
+#EXTGRP:TV Malaysia
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1002" tvg-id="RTBSukmaindera.bn" tvg-name="RTBSukmaindera" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RTB_Sukmaindera.png",RTB Sukmaindera 🇧🇳
-#EXTGRP:Basic TV
+#EXTGRP:TV Malaysia
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1101" tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM1.png",RTM TV1
-#EXTGRP:Basic TV
+#EXTGRP:TV Malaysia
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1102" tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main//channel-logos/RTM2.png",RTM TV2
-#EXTGRP:Basic TV
+#EXTGRP:TV Malaysia
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1103" tvg-id="Okey.my" tvg-name="Okey" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM_Okey.png",RTM Okey
-#EXTGRP:Basic TV
+#EXTGRP:TV Malaysia
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1104" tvg-id="Sukan RTM.my" tvg-name="Sukan RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/Sukan_RTM.png",Sukan RTM
-#EXTGRP:Basic TV
+#EXTGRP:TV Malaysia
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1105" tvg-id="Berita RTM.my" tvg-name="Berita RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/Berita_RTM.png",Berita RTM
-#EXTGRP:Basic TV
+#EXTGRP:TV Malaysia
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1106" tvg-id="TV6.my" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM6.png",RTM TV6
-#EXTGRP:Basic TV
+#EXTGRP:TV Malaysia
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
@@ -3898,147 +3898,147 @@ https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
-#EXTINF:-1 tvg-id="146.astro" ch-number="146" group-title="myFreeview" group-logo="https://aqfadtv.xyz/images/myfreeview.png" tvg-logo="https://aqfadtv.xyz/logos/OKEY.png",146 OKEY
+#EXTINF:-1 tvg-id="146.astro" ch-number="146" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/myfreeview.png" tvg-logo="https://aqfadtv.xyz/logos/OKEY.png",146 OKEY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/ZWTWoqiWiVgbvEaF2fug", "kid":"ngdsLhf9SLS+J83Aj+IYfw" } ], "type":"temporary" }
 https://linear08-playback.sooka.my/CH2/masterCH2.mpd
 
-#EXTINF:-1 tvg-id="146.astro" tvg-id="OKEY" ch-number="146" group-title="myFreeview" group-logo="https://aqfadtv.xyz/images/myfreeview.png" tvg-logo="https://aqfadtv.xyz/logos/OKEY.png",146 OKEY
+#EXTINF:-1 tvg-id="146.astro" tvg-id="OKEY" ch-number="146" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/myfreeview.png" tvg-logo="https://aqfadtv.xyz/logos/OKEY.png",146 OKEY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yEdSMcCdwbY5iGl2tvx1dQ", "kid":"YPICsWQH/t2ONpwyr1fdEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
-#EXTINF:-1 tvg-id="300.astro" ch-number="300" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/iQIYI.png",300 iQIYI
+#EXTINF:-1 tvg-id="300.astro" ch-number="300" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/iQIYI.png",300 iQIYI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1006
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/1006/default.mpd
 
-#EXTINF:-1 tvg-id="305.astro" ch-number="305" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/TVBClassic.png",305 TVB Classic
+#EXTINF:-1 tvg-id="305.astro" ch-number="305" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/TVBClassic.png",305 TVB Classic
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kzric7Fmuqj7ID7vGnrb3w", "kid":"BxRIaQoOybJ+ssGn1eAwEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/aec/
-#EXTINF:-1 tvg-id="306.astro" ch-number="306" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAEC.png",306 Astro AEC
+#EXTINF:-1 tvg-id="306.astro" ch-number="306" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAEC.png",306 Astro AEC
 https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"p+UHiLPygTyQoXR5xtLNaA", "kid":"euZHm2z/SQ20kTzX7K72LQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="306.astro" ch-number="306" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAEC.png",306 Astro AEC
+#EXTINF:-1 tvg-id="306.astro" ch-number="306" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAEC.png",306 Astro AEC
 https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
 
-#EXTINF:-1 tvg-id="306.astro" ch-number="306" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAEC.png",306 Astro AEC
+#EXTINF:-1 tvg-id="306.astro" ch-number="306" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAEC.png",306 Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5103
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5103/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/qj/
-#EXTINF:-1 tvg-id="308.astro" ch-number="308" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroQJ.png",308 Astro QJ
+#EXTINF:-1 tvg-id="308.astro" ch-number="308" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroQJ.png",308 Astro QJ
 https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
 
-#EXTINF:-1 tvg-id="310.astro" ch-number="310" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/TVBJade.png",310 TVB Jade
+#EXTINF:-1 tvg-id="310.astro" ch-number="310" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/TVBJade.png",310 TVB Jade
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"y54aEi7RxkRffT/SFiNY8Q", "kid":"/hIZAZqfNs3vNHCI5ZLKEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default.mpd
 
-#EXTINF:-1 tvg-id="311.astro" ch-number="311" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAOD.png",311 Astro AOD HD
+#EXTINF:-1 tvg-id="311.astro" ch-number="311" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAOD.png",311 Astro AOD HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F24pOLznldHIVVmiRAR39w", "kid":"KGrvTo2F22bgX+Slx5nkEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2706/default.mpd
 
-#EXTINF:-1 tvg-id="316.astro" ch-number="316" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/CTIAsia.png",316 CTI Asia
+#EXTINF:-1 tvg-id="316.astro" ch-number="316" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/CTIAsia.png",316 CTI Asia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9anK3qI3KlLCuR+cJh/gpA", "kid":"1iZZjCq0UlN1Cdy4qG25EA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5017/default.mpd
 
-#EXTINF:-1 tvg-id="317.astro" ch-number="317" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/TVBEntertainmentNews.png",317 TVB Entertainment News
+#EXTINF:-1 tvg-id="317.astro" ch-number="317" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/TVBEntertainmentNews.png",317 TVB Entertainment News
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r3EKBv1nl1uZ20pHp1e4Sw", "kid":"+mKcNkDOUzx1VQn2f3XmEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5015/default.mpd
 
-#EXTINF:-1 tvg-id="319.astro" ch-number="319" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/TVBXingHe.png",319 TVB Xing He
+#EXTINF:-1 tvg-id="319.astro" ch-number="319" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/TVBXingHe.png",319 TVB Xing He
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/401/default.mpd
 
-#EXTINF:-1 tvg-id="325.astro" ch-number="325" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png",325 Phoenix Chinese Channel
+#EXTINF:-1 tvg-id="325.astro" ch-number="325" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png",325 Phoenix Chinese Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/Wvhzqn6I8mPIPGyq8ridg", "kid":"UXwwjvZBmxdn6a5xDIl3EA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/400/default.mpd
 
-#EXTINF:-1 tvg-id="326.astro" ch-number="326" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/PhoenixInfoNews.png",326 Phoenix Info News
+#EXTINF:-1 tvg-id="326.astro" ch-number="326" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/PhoenixInfoNews.png",326 Phoenix Info News
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"i563q3GWpCXZq2GKXJ+Z2Q", "kid":"lylVipv/jZR3S/ovAZoTEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5009/default.mpd
 
-#EXTINF:-1 tvg-id="335.astro" ch-number="335" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/CCTV4.png",335 CCTV4
+#EXTINF:-1 tvg-id="335.astro" ch-number="335" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/CCTV4.png",335 CCTV4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hCVpDEhE+7AbXq5wa8L3xg", "kid":"2xozj3HUAYb1mXywhbs/EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/403/default.mpd
 
-#EXTINF:-1 tvg-id="392.astro" ch-number="392" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/KBSWorld.png",392 KBS World
+#EXTINF:-1 tvg-id="392.astro" ch-number="392" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/KBSWorld.png",392 KBS World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kDHO+thTx4plwgIIIVMvPQ", "kid":"5VhM/9YVSROXuM3tXmecGQ" } ], "type":"temporary" }
 https://linear03-playback.sooka.my/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="392.astro" ch-number="392" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/KBSWorld.png",392 KBS World
+#EXTINF:-1 tvg-id="392.astro" ch-number="392" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/KBSWorld.png",392 KBS World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2306
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2306/default.mpd
 
-#EXTINF:-1 tvg-id="393.astro" ch-number="393" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/ONE.png",393 ONE
+#EXTINF:-1 tvg-id="393.astro" ch-number="393" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/ONE.png",393 ONE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bhcdw24jVsJOTlmxm8mPxQ", "kid":"aXljcdxORX2Y+isCXqv8lA" } ], "type":"temporary" }
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="393.astro" ch-number="393" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/ONE.png",393 ONE
+#EXTINF:-1 tvg-id="393.astro" ch-number="393" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/ONE.png",393 ONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2702
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default.mpd
 
-#EXTINF:-1 tvg-id="395.astro" ch-number="395" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/tvN.png",395 tvN
+#EXTINF:-1 tvg-id="395.astro" ch-number="395" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/tvN.png",395 tvN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tPEppE661kuiVHX9L66wMg", "kid":"ziR/uJnPTyilAR4YBpyHcg" } ], "type":"temporary" }
 https://linear03-playback.sooka.my/CH4/masterCH4.mpd
 
-#EXTINF:-1 tvg-id="395.astro" ch-number="395" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/tvN.png",395 tvN
+#EXTINF:-1 tvg-id="395.astro" ch-number="395" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/tvN.png",395 tvN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1001
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default.mpd
 
-#EXTINF:-1 tvg-id="396.astro" ch-number="396" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/KPlus.png",396 K-Plus
+#EXTINF:-1 tvg-id="396.astro" ch-number="396" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/KPlus.png",396 K-Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+TZMA5oAfez1lcmKWMMjCQ", "kid":"fLhAK8wnRmOYFYmFcQMnNA" } ], "type":"temporary" }
 https://linear08-playback.sooka.my/CH5/masterCH5.mpd
 
-#EXTINF:-1 tvg-id="396.astro" ch-number="396" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/KPlus.png",396 K-Plus
+#EXTINF:-1 tvg-id="396.astro" ch-number="396" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/KPlus.png",396 K-Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/9983
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 
-#EXTINF:-1 tvg-id="GEM.sg" ch-number=" " tvg-name="GEM" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png" group-title="KOREAN",GEM
+#EXTINF:-1 tvg-id="GEM.sg" ch-number=" " tvg-name="GEM" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png" group-title="Sooka Plus!",GEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
-#EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World HD" ch-number="392" group-title="KOREAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png", KBS World
+#EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World HD" ch-number="392" group-title="Sooka Plus!" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png", KBS World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
-#EXTINF:-1 tvg-id="ONE" tvg-name="tvOne" ch-number="393" group-title="KOREAN" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png", ONE 
+#EXTINF:-1 tvg-id="ONE" tvg-name="tvOne" ch-number="393" group-title="Sooka Plus!" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png", ONE 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN HD" ch-number="395" group-title="KOREAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png", tvN
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN HD" ch-number="395" group-title="Sooka Plus!" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png", tvN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
-#EXTINF:-1 tvg-id="K-Plus" tvg-name="" ch-number="396" group-title="KOREAN" tvg-logo="http://www.kplus-asia.com/img/title/logo.png", KPlus
+#EXTINF:-1 tvg-id="K-Plus" tvg-name="" ch-number="396" group-title="Sooka Plus!" tvg-logo="http://www.kplus-asia.com/img/title/logo.png", KPlus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
@@ -4058,60 +4058,60 @@ https://linear08-playback.sooka.my/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=2406/
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
-#EXTINF:-1 tvg-id="501.astro" ch-number="501" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAwani.png",501 Astro Awani
+#EXTINF:-1 tvg-id="501.astro" ch-number="501" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAwani.png",501 Astro Awani
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GZBKr+idRaQB1cqtnYQadw", "kid":"T8ES+SqfTrmJob14DT495g" } ], "type":"temporary" }
 https://linear03-playback.sooka.my/CH5/masterCH5.mpd
 
-#EXTINF:-1 tvg-id="501.astro" ch-number="501" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAwani.png",501 Astro Awani
+#EXTINF:-1 tvg-id="501.astro" ch-number="501" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAwani.png",501 Astro Awani
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/default.mpd
 
-#EXTINF:-1 tvg-id="501.astro" ch-number="501" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAwani.png",501 Astro Awani
+#EXTINF:-1 tvg-id="501.astro" ch-number="501" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAwani.png",501 Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
-#EXTINF:-1 tvg-id="503.astro" ch-number="503" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/CGTN.png",503 CGTN
+#EXTINF:-1 tvg-id="503.astro" ch-number="503" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/CGTN.png",503 CGTN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nnBhYfAvuZy2ktKWVHBJTg", "kid":"/GbvDuNbW6Y53A4TxfipEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5019/default.mpd
 
-#EXTINF:-1 tvg-id="513.astro" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/AlJazeera.png" ch-number="513",513 Al Jazeera English
+#EXTINF:-1 tvg-id="513.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/AlJazeera.png" ch-number="513",513 Al Jazeera English
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bDxJgROr/99FTck1MZp5TQ", "kid":"sfvQh055I/WwWSmgQqoGEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
 
-#EXTINF:-1 tvg-id="515.astro" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" ch-number="515",515 CNA
+#EXTINF:-1 tvg-id="515.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" ch-number="515",515 CNA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RCdYhO45TQUIH945X/bkFQ", "kid":"+BKurmvluSSoGBtRLV15EA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/605/default_primary.mpd
 
-#EXTINF:-1 tvg-id="550.astro" group-title="Documentaries" group-logo="https://aqfadtv.xyz/images/documentaries.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature_190x80_TV-Guide.png" ch-number="550",550 Love Nature
+#EXTINF:-1 tvg-id="550.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/documentaries.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature_190x80_TV-Guide.png" ch-number="550",550 Love Nature
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d1plTAYQgRrQIjKaaIhN4Q", "kid":"FovYFUaGOf5FKLS/AUHzEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5096/default.mpd
 
-#EXTINF:-1 tvg-id="701.astro" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/AXN.png" ch-number="701",701 AXN
+#EXTINF:-1 tvg-id="701.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/AXN.png" ch-number="701",701 AXN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pNSb2ozSm6KIjHMrTn2dYw", "kid":"Qwfe9qKb7AgvjJPx+Y5ZEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
-#EXTINF:-1 tvg-id="702.astro" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png", ch-number="702",702 HITS Now
+#EXTINF:-1 tvg-id="702.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png", ch-number="702",702 HITS Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BlwQgpbXjVGoVEzEKhqnaA", "kid":"/ElXO0+WS+C0BTRJjOjWLg" } ], "type":"temporary" }
 https://linear05-playback.sooka.my/CH3/masterCH3.mpd
 
-#EXTINF:-1 tvg-id="702.astro" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png", ch-number="702",702 HITS Now
+#EXTINF:-1 tvg-id="702.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png", ch-number="702",702 HITS Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5110
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5110/default.mpd
 
-#EXTINF:-1 tvg-id="706.astro" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/HITS.png" ch-number="706",706 HITS
+#EXTINF:-1 tvg-id="706.astro" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/HITS.png" ch-number="706",706 HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/606
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default.mpd
 
-#EXTINF:-1 tvg-id="717.astro" ch-number="717" group-title="Lifestyle" group-logo="https://aqfadtv.xyz/images/lifestyle.png" tvg-logo="https://aqfadtv.xyz/logos/BBCLifestyle.png",717 BBC Lifestyle
+#EXTINF:-1 tvg-id="717.astro" ch-number="717" group-title="Sooka Plus!" group-logo="https://aqfadtv.xyz/images/lifestyle.png" tvg-logo="https://aqfadtv.xyz/logos/BBCLifestyle.png",717 BBC Lifestyle
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sS4fiUEpxRfciEW6ruvsig", "kid":"9CkpLcdE8oQ1UwhWFXesEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
