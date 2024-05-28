@@ -683,8 +683,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 
 
-################ AstroGo #################
+################ Youtube #################
 
+
+#EXTINF:-1 group-title="YT Music Lofi" tvg-logo="https://iili.io/JQxnxZN.jpg" tvg-id="", Lofi Music Youtube
+https://raw.githubusercontent.com/Justryuz/jtv/main/playlist.m3u
+
+################### yt ################
 
 ########### Astro Sport ##############
 
