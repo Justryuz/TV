@@ -1,0 +1,145 @@
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/HotFM.png", Hot FM 
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/HotFM.png", Hot FM (YouTube Live) 
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/Kool101.png",Kool 101 
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/Kool101.png",Kool 101 (YouTube Live) 
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Kool101.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/MolekFM_v1.png",Molek FM 
+https://mediaprima.rastream.com/mediaprima-molekfm
+
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/MolekFM_v1.png",Molek FM (YouTube Live) 
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/ERA.png",ERA 
+https://live.aqfadtv.xyz/radio/era
+
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/Sinar.png",SINAR 
+https://live.aqfadtv.xyz/radio/sinar
+
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://aqfadtv.xyz/logos/Gegar.png",GEGAR 
+https://live.aqfadtv.xyz/radio/gegar
+
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM 
+https://raw.githubusercontent.com/mastrolive/Stream/master/SuriaFM.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="HITZ" tvg-logo="https://aqfadtv.xyz/logos/Hitz.png",HITZ 
+https://live.aqfadtv.xyz/radio/hitz
+
+
+
+#################### RADIO ####################
+
+#EXTINF:-1 tvg-chno="901" tvg-id="Nasional FM" tvg-name="Nasional FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-NasionalFM.png",RTM Radio Nasional
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC
+#EXTINF:-1 tvg-chno="902" tvg-id="Traxx FM" tvg-name="Traxx FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-TraxxFM.png",RTM Radio Traxx
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC
+#EXTINF:-1 tvg-chno="903" tvg-id="AI FM" tvg-name="AI FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-AiFM.png",RTM Radio Ai
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC
+#EXTINF:-1 tvg-chno="904" tvg-id="Minnal FM" tvg-name="Minnal FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-MinnalFM.png",RTM Radio Minnal
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC
+#EXTINF:-1 tvg-chno="905" tvg-id="Radio Klasik" tvg-name="Radio Klasik" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-RadioKlasik.png",RTM Radio Klasik
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC
+#EXTINF:-1 tvg-chno="906" tvg-id="Asyik FM" tvg-name="Asyik FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-AsyikFM.png",RTM Radio Asyik
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC
+#EXTINF:-1 tvg-chno="907" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-hotfm.png",Hot FM (Media Prima Audio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://mediaprima.rastream.com/mediaprima-hotfm
+#EXTINF:-1 tvg-chno="908" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-flyfm.png",Fly FM (Media Prima Audio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://mediaprima.rastream.com/mediaprima-flyfm
+#EXTINF:-1 tvg-chno="909" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-eightfm.png",Eight FM (Media Prima Audio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:-1 tvg-chno="910" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-molekfm.png",Molek FM (Media Prima Audio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://mediaprima.rastream.com/mediaprima-molekfm
+#EXTINF:-1 tvg-chno="911" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/MPA/mpa-kool101-dark.png",Kool 101 (Media Prima Audio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:-1 tvg-chno="912" tvg-id="HITZ" tvg-name="HITZ" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/hitz.png",Hitz (Astro Radio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/488kt4sbv4uvv
+#EXTINF:-1 tvg-chno="913" tvg-id="LITE" tvg-name="LITE" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/lite.png",Lite (Astro Radio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/bn4ex8sbv4uvv
+#EXTINF:-1 tvg-chno="914" tvg-id="MIX" tvg-name="MIX" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/mix.png",Mix (Astro Radio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/v5pq3htbv4uvv
+#EXTINF:-1 tvg-chno="915" tvg-id="ERA" tvg-name="ERA" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/era.png",Era (Astro Radio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/crec9cmbv4uvv
+#EXTINF:-1 tvg-chno="916" tvg-id="SINAR" tvg-name="SINAR" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/sinar.png",Sinar (Astro Radio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/azatk0tbv4uvv
+#EXTINF:-1 tvg-chno="917" tvg-id="ZAYAN" tvg-name="ZAYAN" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/zayan.png",Zayan (Astro Radio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/7ww2a4tbv4uvv
+#EXTINF:-1 tvg-chno="918" tvg-id="GEGAR" tvg-name="GEGAR" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/gegar.png",Gegar (Astro Radio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/cn0zcqsbv4uvv
+#EXTINF:-1 tvg-chno="919" tvg-id="RAAGA" tvg-name="RAAGA" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/raaga.png",Raaga (Astro Radio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/1ut6qwtbv4uvv
+#EXTINF:-1 tvg-chno="920" tvg-id="MY" tvg-name="MY" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/my.png",MY (Astro Radio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/hc3unrtbv4uvv
+#EXTINF:-1 tvg-chno="921" tvg-id="MELODY" tvg-name="MELODY" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/melody.png",Melody (Astro Radio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/2u1n6dtbv4uvv
+#EXTINF:-1 tvg-chno="922" tvg-id="GOXUAN" tvg-name="GOXUAN" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/goxuan.png",goXuan (Astro Radio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/xt9nhzsbv4uvv
+#EXTINF:-1 tvg-chno="923" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/988fm.png",988 FM
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
+#EXTINF:-1 tvg-chno="924" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/BestFM.png",Best FM
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/h34x4kgg9hhvv
+#EXTINF:-1 tvg-chno="925" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/BFM89.9.png",BFM 89.9
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/BFMAAC
+#EXTINF:-1 tvg-chno="926" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/ManisFM.png",Manis FM
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/nzgauqq1v7zuv
+#EXTINF:-1 tvg-chno="927" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/suriafm.png",Suria FM
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
