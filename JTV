@@ -2,6 +2,77 @@
 #EXTM3U x-tvg-url="https://bit.ly/pondan-epg, #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://i.mjh.nz/PlutoTV/all.xml.gz",refresh="3600"  refresh="1440" billed-msg="V3.0.5 - 28/05/2024 ~ long Live Tv ~ Keep Calm & stay watching guys"  vod_library="https://fahmikacak.pages.dev/HBOGO%20Asia, https://fahmikacak.pages.dev/vod.m3u8, https://fahmikacak.pages.dev/series.m3u8, https://shz.al/KSzH"
 
 
+<====================================== LIVE EVENT EURO 2024 =====================================>
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/522/791/png-transparent-uefa-euro-2024.png" group-title="EURO 2024",BeinSport 1
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C0:B2:04&stream=124773_&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/522/791/png-transparent-uefa-euro-2024.png" group-title="EURO 2024",TSN 4
+https://cors-proxy.elfsight.com/http://cord-cutter.net:8080/live/j3McKd/673709/47446.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/522/791/png-transparent-uefa-euro-2024.png" group-title="EURO 2024",TRT Spor
+https://cors-proxy.elfsight.com/http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=2083&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/522/791/png-transparent-uefa-euro-2024.png" group-title="EURO 2024",Rush Sport
+http://tv14s.xyz:8080/live/753468/894568/99568.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/522/791/png-transparent-uefa-euro-2024.png" group-title="EURO 2024",TSN 1
+http://cord-cutter.net:8080/live/j3McKd/673709/47440.ts
+
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="EURO 2024",EURO 2024 - 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12585 
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="EURO 2024",EURO 2024 - 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12586 
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="EURO 2024",EURO 2024 - 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12587 
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="EURO 2024",EURO 2024 - 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12588 
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="EURO 2024",EURO 2024 - 5 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12589 
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="EURO 2024",EURO 2024 - 6 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12590 
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="EURO 2024",EURO 2024 - 7 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
+
+
 #################### ryuzTV ####################
 
 #EXTINF:-1 tvg-logo="https://iili.io/J6XwbDu.png" group-title="ryuzMovie",ryuzDouyu 24/7
