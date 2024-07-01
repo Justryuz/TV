@@ -1,6 +1,12 @@
 
-#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://i.mjh.nz/PlutoTV/all.xml.gz",refresh="3600"  refresh="1440" billed-msg="V3.1.1 - 1/07/2024 ~ long Live Tv ~ Keep Calm & stay watching guys"  vod_library="https://fahmikacak.pages.dev/HBOGO%20Asia, https://shz.al/KSzH, https://raw.githubusercontent.com/Justryuz/jtv/main/playlist.m3u,"
+#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://i.mjh.nz/PlutoTV/all.xml.gz",refresh="3600"  refresh="1440" billed-msg="V3.1.1 - 1/07/2024 ~ long Live Tv ~ Keep Calm & stay watching guys"  vod_library="https://fahmikacak.pages.dev/HBOGO%20Asia, https://shz.al/KSzH,"
 
+<!-------------------- Testing JustryuzTV ---------------------------------------->
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="TV 1" tvg-name="JTV" group-title="JTV" group-logo="https://iili.io/dF42Ewg.png" tvg-logo="https://iili.io/dF42Ewg.png",JTV YT
+https://raw.githubusercontent.com/Justryuz/jtv/main/playlist.m3u
 
 <------------------------------------- Thailand ----------------------->
 
